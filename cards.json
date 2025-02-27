@@ -46,5 +46,53 @@
         "tcgplayerId":"257003",
         "productId":"65559",
         "productSku":"L182-UNF-HF-F"
+    },
+    {
+        "name": "Swamp UNF #237 Foil",
+        "tcgplayerId": "256994",
+        "productId": "65553",
+        "productSku": "L182-UNF-HF"
+    },
+    {
+        "name": "Forest UNF #239 Foil",
+        "tcgplayerId": "256997",
+        "productId": "65551",
+        "productSku": "L184-UNF-HF"
+    },
+    {
+        "name": "Plains UNF #235 Foil",
+        "tcgplayerId": "257000",
+        "productId": "65550",
+        "productSku": "L180-UNF-HF"
+    },
+    {
+        "name": "Mountain UNF #238 Foil",
+        "tcgplayerId": "257002",
+        "productId": "65549",
+        "productSku": "L183-UNF-HF"
+    },
+    {
+        "name": "Twinflame Tyrant FDN Showcase Art #427 Foil",
+        "tcgplayerId": "589448",
+        "productId": "65538",
+        "productSku": "C578-FDN-HF-S"
+    },
+    {
+        "name": "Zombie Master PRM #3 Full Art Foil",
+        "tcgplayerId": "518817",
+        "productId": "65572",
+        "productSku": "C585-PRM-HF-F"
+    },
+    {
+        "name": "The Lord of Pain DSC #3 Full Art Foil",
+        "tcgplayerId": "578900",
+        "productId": "65570",
+        "productSku": "C584-DSC-HF-F"
+    },
+    {
+        "name": "Mountain UNF #243 Foil",
+        "tcgplayerId": "256995",
+        "productId": "65563",
+        "productSku": "L183-UNF-HF-F"
     }
- ]
+]
