@@ -1,14 +1,50 @@
 [
-   {
-      "name":"Encore Electromancer SLP #808 Foil",
-      "tcgplayerId":"123456",
-      "productId":"63134",
-      "productSku":"C189-SLD-HF-F"
-   },
-   {
-      "name":"Llanowar Elves FDN Showcase Art #429 Foil",
-      "tcgplayerId":"589449",
-      "productId":"65540",
-      "productSku":"C582-FDN-HF-S"
-   }
-]
+    {
+       "name":"Encore Electromancer SLP #808 Foil",
+       "tcgplayerId":"123456",
+       "productId":"63134",
+       "productSku":"C189-SLD-HF-F"
+    },
+    {
+       "name":"Llanowar Elves FDN Showcase Art #429 Foil",
+       "tcgplayerId":"589449",
+       "productId":"65540",
+       "productSku":"C582-FDN-HF-S"
+    },
+    {
+        "name":"Bloodthirsty Conqueror FDN Showcase Art #426 Foil",
+        "tcgplayerId":"589427",
+        "productId":"65547",
+        "productSku":"C552-FDN-HF-S"
+    },
+    {
+        "name":"Braids, Arisen Nightmare PWCS #2 Foil",
+        "tcgplayerId":"516589",
+        "productId":"65545",
+        "productSku":"C583-PWCS-HF"
+    },
+    {
+        "name":"Tishana’s Tidebinder PJSC Full Art #1 Foil",
+        "tcgplayerId":"620140",
+        "productId":"65542",
+        "productSku":"C360-PJSC-HF-F"
+    },
+    {
+        "name":"Mox Opal 2XM #275 Foil",
+        "tcgplayerId":"218602",
+        "productId":"65536",
+        "productSku":"A114-2XM-HF"
+    },
+    {
+        "name":"Shadowborn Apostle SLD #688 Foil",
+        "tcgplayerId":"496085",
+        "productId":"65534",
+        "productSku":"C204-SLD-HF-F"
+    },
+    {
+        "name":"Swamp UNF #242 Foil",
+        "tcgplayerId":"257003",
+        "productId":"65559",
+        "productSku":"L182-UNF-HF-F"
+    }
+ ]
