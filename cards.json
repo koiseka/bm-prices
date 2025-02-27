@@ -1,8 +1,14 @@
 [
-  { 
-    name: "Encore Electromancer SLP #808 Foil", 
-    tcgplayerId: "123456", 
-    productId: "63134", 
-    productSku: "C189-SLD-HF-F" 
-  },
+   {
+      "name":"Encore Electromancer SLP #808 Foil",
+      "tcgplayerId":"123456",
+      "productId":"63134",
+      "productSku":"C189-SLD-HF-F"
+   },
+   {
+      "name":"Llanowar Elves FDN Showcase Art #429 Foil",
+      "tcgplayerId":"589449",
+      "productId":"65540",
+      "productSku":"C582-FDN-HF-S"
+   }
 ]
