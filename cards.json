@@ -1,482 +1,562 @@
 [
-  {
-    "name": "Encore Electromancer SLP #808 Foil",
-    "tcgplayerId": "557904",
-    "productId": "63134",
-    "productSku": "C189-SLD-HF-F"
-  },
-  {
-    "name": "Llanowar Elves FDN Showcase Art #429 Foil",
-    "tcgplayerId": "589449",
-    "productId": "65540",
-    "productSku": "C582-FDN-HF-S"
-  },
-  {
-    "name": "Bloodthirsty Conqueror FDN Showcase Art #426 Foil",
-    "tcgplayerId": "589427",
-    "productId": "65547",
-    "productSku": "C552-FDN-HF-S"
-  },
-  {
-    "name": "Braids, Arisen Nightmare PWCS #2 Foil",
-    "tcgplayerId": "516589",
-    "productId": "65545",
-    "productSku": "C583-PWCS-HF"
-  },
-  {
-    "name": "Tishana’s Tidebinder PJSC Full Art #1 Foil",
-    "tcgplayerId": "620140",
-    "productId": "65542",
-    "productSku": "C360-PJSC-HF-F"
-  },
-  {
-    "name": "Mox Opal 2XM #275 Foil",
-    "tcgplayerId": "218602",
-    "productId": "65536",
-    "productSku": "A114-2XM-HF"
-  },
-  {
-    "name": "Shadowborn Apostle SLD #688 Foil",
-    "tcgplayerId": "496085",
-    "productId": "65534",
-    "productSku": "C204-SLD-HF-F"
-  },
-  {
-    "name": "Swamp UNF #242 Foil",
-    "tcgplayerId": "257003",
-    "productId": "65559",
-    "productSku": "L182-UNF-HF-F"
-  },
-  {
-    "name": "Swamp UNF #237 Foil",
-    "tcgplayerId": "256994",
-    "productId": "65553",
-    "productSku": "L182-UNF-HF"
-  },
-  {
-    "name": "Forest UNF #239 Foil",
-    "tcgplayerId": "256997",
-    "productId": "65551",
-    "productSku": "L184-UNF-HF"
-  },
-  {
-    "name": "Plains UNF #235 Foil",
-    "tcgplayerId": "257000",
-    "productId": "65550",
-    "productSku": "L180-UNF-HF"
-  },
-  {
-    "name": "Mountain UNF #238 Foil",
-    "tcgplayerId": "257002",
-    "productId": "65549",
-    "productSku": "L183-UNF-HF"
-  },
-  {
-    "name": "Twinflame Tyrant FDN Showcase Art #427 Foil",
-    "tcgplayerId": "589448",
-    "productId": "65538",
-    "productSku": "C578-FDN-HF-S"
-  },
-  {
-    "name": "Zombie Master PRM #3 Full Art Foil",
-    "tcgplayerId": "518817",
-    "productId": "65572",
-    "productSku": "C585-PRM-HF-F"
-  },
-  {
-    "name": "The Lord of Pain DSC #3 Full Art Foil",
-    "tcgplayerId": "578900",
-    "productId": "65570",
-    "productSku": "C584-DSC-HF-F"
-  },
-  {
-    "name": "Mountain UNF #243 Foil",
-    "tcgplayerId": "256995",
-    "productId": "65563",
-    "productSku": "L183-UNF-HF-F"
-  },
-  {
-    "name": "Plains UNF #240 Foil",
-    "tcgplayerId": "256984",
-    "productId": "65562",
-    "productSku": "L180-UNF-HF-F"
-  },
-  {
-    "name": "Forest UNF #244 Foil",
-    "tcgplayerId": "256982",
-    "productId": "65561",
-    "productSku": "L184-UNF-HF-F"
-  },
-  {
-    "name": "Island UNF #241 Foil",
-    "tcgplayerId": "257005",
-    "productId": "65560",
-    "productSku": "L181-UNF-HF-F"
-  },
-  {
-    "name": "Island UNF #236 Foil",
-    "tcgplayerId": "256998",
-    "productId": "65552",
-    "productSku": "L181-UNF-HF"
-  },
-  {
-    "name": "Dragon Tempest PL24 #7 Foil",
-    "tcgplayerId": "587219",
-    "productId": "65585",
-    "productSku": "E208-PL24-HF"
-  },
-  {
-    "name": "Arcane Signet SLD #908 Full Art Foil",
-    "tcgplayerId": "587975",
-    "productId": "65583",
-    "productSku": "A156-SLD-HF-MV"
-  },
-  {
-    "name": "Spell Snare DIS #33 Foil",
-    "tcgplayerId": "13956",
-    "productId": "65581",
-    "productSku": "I207-DIS-RF"
-  },
-  {
-    "name": "Spell Pierce SLP #18 Full Art Foil",
-    "tcgplayerId": "528387",
-    "productId": "65578",
-    "productSku": "I206-SLP-HF-F"
-  },
-  {
-    "name": "Solphim, Mayhem Dominus ONE Full Art #312 Foil",
-    "tcgplayerId": "479511",
-    "productId": "65576",
-    "productSku": "C558-ONE-HF-F"
-  },
-  {
-    "name": "Demilich AFR #3 Extended Art Foil",
-    "tcgplayerId": "243283",
-    "productId": "65574",
-    "productSku": "C586-AFR-HF-E"
-  },
-  {
-    "name": "Faithless Looting STA #101 Full Art JP Foil",
-    "tcgplayerId": "235483",
-    "productId": "65597",
-    "productSku": "S191-STA-HF-J"
-  },
-  {
-    "name": "Day of Judgment FDN #422 Showcase Art Foil",
-    "tcgplayerId": "589404",
-    "productId": "65595",
-    "productSku": "S190-FDN-HF-S"
-  },
-  {
-    "name": "Muldrotha, the Gravetide FDN #430 Showcase Art Foil",
-    "tcgplayerId": "589775",
-    "productId": "65593",
-    "productSku": "C589-FDN-HF-S"
-  },
-  {
-    "name": "Herald of Eternal Dawn FDN #423 Showcase Art Foil",
-    "tcgplayerId": "589409",
-    "productId": "65591",
-    "productSku": "C588-FDN-HF-S"
-  },
-  {
-    "name": "Progenitus FDN #431 Showcase Art Foil",
-    "tcgplayerId": "589456",
-    "productId": "65589",
-    "productSku": "C587-FDN-HF-S"
-  },
-  {
-    "name": "Think Twice FDN #425 Showcase Art Foil",
-    "tcgplayerId": "589421",
-    "productId": "65587",
-    "productSku": "I208-FDN-HF-S"
-  },
-  {
-    "name": "Old Gnawbone AFR #197 Foil",
-    "tcgplayerId": "243293",
-    "productId": "65610",
-    "productSku": "C118-AFR-HF"
-  },
-  {
-    "name": "Shizo, Death’s Storehouse CHK #283 Foil",
-    "tcgplayerId": "12167",
-    "productId": "65608",
-    "productSku": "L175-CHK-RF"
-  },
-  {
-    "name": "Swamp SLD #361*",
-    "tcgplayerId": "259253",
-    "productId": "65606",
-    "productSku": "L182-SLD-361"
-  },
-  {
-    "name": "Grapeshot STA #102 Full Art JP Foil",
-    "tcgplayerId": "235516",
-    "productId": "65603",
-    "productSku": "S192-STA-HF-J"
-  },
-  {
-    "name": "Mox Opal SOM #179 Foil",
-    "tcgplayerId": "36238",
-    "productId": "65601",
-    "productSku": "A114-SOM-RF"
-  },
-  {
-    "name": "Kaito, Cunning Infiltrator FDN #424 Showcase Art Foil",
-    "tcgplayerId": "589415",
-    "productId": "65599",
-    "productSku": "P136-FDN-HF-S"
-  },
-  {
-    "name": "Bloodthirsty Conqueror FDN Extended Art #460 Foil",
-    "tcgplayerId": "589426",
-    "productId": "63143",
-    "productSku": "C552-FDN-HF-E"
-  },
-  {
-    "name": "Sire of Seven Deaths FDN Full Art #292 Foil",
-    "tcgplayerId": "591197",
-    "productId": "63140",
-    "productSku": "C548-FDN-HF-F"
-  },
-  {
-    "name": "Liliana of the Veil INR #475 Retro Foil",
-    "tcgplayerId": "600472",
-    "productId": "63135",
-    "productSku": "P105-INR-RF"
-  },
-  {
-    "name": "Urza’s Saga SCH Full Art #29 Foil",
-    "tcgplayerId": "562099",
-    "productId": "63133",
-    "productSku": "L142-SCH-HF-F"
-  },
-  {
-    "name": "Mana Vault SLD #796 Foil",
-    "tcgplayerId": "547733",
-    "productId": "63132",
-    "productSku": "A128-SLD-HF-F"
-  },
-  {
-    "name": "The Meathook Massacre INR Showcase Art #486",
-    "tcgplayerId": "600475",
-    "productId": "63223",
-    "productSku": "E111-INR-HR-S"
-  },
-  {
-    "name": "Edgar Markov INR #234 Foil",
-    "tcgplayerId": "596272",
-    "productId": "63222",
-    "productSku": "C188-INR-HF"
-  },
-  {
-    "name": "General Kreat, the Boltbringer J25 #48",
-    "tcgplayerId": "589385",
-    "productId": "63221",
-    "productSku": "C581-J25-RR"
-  },
-  {
-    "name": "Dionus, Elvish Archdruid J25 #52",
-    "tcgplayerId": "590235",
-    "productId": "63220",
-    "productSku": "C580-J25-RR"
-  },
-  {
-    "name": "Forsaken Wastes MIR #125",
-    "tcgplayerId": "5078",
-    "productId": "63219",
-    "productSku": "E207-MIR-RR"
-  },
-  {
-    "name": "Eiganjo Castle CHK #275",
-    "tcgplayerId": "11985",
-    "productId": "63218",
-    "productSku": "L303-CHK-RR"
-  },
-  {
-    "name": "The Meathook Massacre INR #387",
-    "tcgplayerId": "600474",
-    "productId": "63217",
-    "productSku": "E111-INR-RR"
-  },
-  {
-    "name": "Snapcaster Mage INR #478",
-    "tcgplayerId": "600452",
-    "productId": "63216",
-    "productSku": "C189-INR-RR"
-  },
-  {
-    "name": "Liliana of the Veil INR #475",
-    "tcgplayerId": "600472",
-    "productId": "63215",
-    "productSku": "P105-INR-RR"
-  },
-  {
-    "name": "Hare Apparent FDN #15",
-    "tcgplayerId": "591214",
-    "productId": "63214",
-    "productSku": "C579-FDN-RR"
-  },
-  {
-    "name": "Tombstone Stairwell MIR #149",
-    "tcgplayerId": "5268",
-    "productId": "63213",
-    "productSku": "E206-MIR-RR"
-  },
-  {
-    "name": "Swords to Plowshares ICE #54",
-    "tcgplayerId": "4912",
-    "productId": "63212",
-    "productSku": "I138-ICE-RR"
-  },
-  {
-    "name": "Twinflame Tyrant FDN Full Art #333",
-    "tcgplayerId": "589445",
-    "productId": "63211",
-    "productSku": "C578-FDN-HR-F"
-  },
-  {
-    "name": "Blasphemous Edict FDN Full Art #317",
-    "tcgplayerId": "591783",
-    "productId": "63210",
-    "productSku": "S189-FDN-HR-F"
-  },
-  {
-    "name": "Bloodthirsty Conqueror FDN Extended Art #460",
-    "tcgplayerId": "589426",
-    "productId": "63209",
-    "productSku": "C552-FDN-HR-E"
-  },
-  {
-    "name": "Bloodthirsty Conqueror FDN #58",
-    "tcgplayerId": "589328",
-    "productId": "63208",
-    "productSku": "C552-FDN-HR"
-  },
-  {
-    "name": "Inventors’ Fair SLD #1735",
-    "tcgplayerId": "588019",
-    "productId": "63207",
-    "productSku": "L186-SLD-HR"
-  },
-  {
-    "name": "Commander’s Plate SLD #1733",
-    "tcgplayerId": "588012",
-    "productId": "63206",
-    "productSku": "A190-SLD-HR"
-  },
-  {
-    "name": "Sigarda’s Aid SLD #1727",
-    "tcgplayerId": "587993",
-    "productId": "63205",
-    "productSku": "E150-SLD-HR"
-  },
-  {
-    "name": "Flawless Maneuver SLD #1728",
-    "tcgplayerId": "587995",
-    "productId": "63204",
-    "productSku": "I137-SLD-HR"
-  },
-  {
-    "name": "Primal Vigor SLD #1749",
-    "tcgplayerId": "587980",
-    "productId": "63203",
-    "productSku": "E144-SLD-HR"
-  },
-  {
-    "name": "Heroic Intervention SLD #1750",
-    "tcgplayerId": "587982",
-    "productId": "63202",
-    "productSku": "I112-SLD-HR"
-  },
-  {
-    "name": "Neerdiv, Devious Diver J25 #36",
-    "tcgplayerId": "590551",
-    "productId": "63201",
-    "productSku": "C577-J25-HR"
-  },
-  {
-    "name": "Pol Jamaar, Illusionist J25 #38",
-    "tcgplayerId": "592018",
-    "productId": "63200",
-    "productSku": "C576-J25-HR"
-  },
-  {
-    "name": "Brimaz, King of Oreskos J25 #58",
-    "tcgplayerId": "589383",
-    "productId": "63199",
-    "productSku": "C575-J25-HR"
-  },
-  {
-    "name": "Kodama of the West Tree J25 #78",
-    "tcgplayerId": "590506",
-    "productId": "63198",
-    "productSku": "C424-J25-HR"
-  },
-  {
-    "name": "Vilis, Broker of Blood J25 #70",
-    "tcgplayerId": "589392",
-    "productId": "63197",
-    "productSku": "C574-J25-HR"
-  },
-  {
-    "name": "Thurid, Mare of Destiny J25 #33",
-    "tcgplayerId": "590613",
-    "productId": "63196",
-    "productSku": "C573-J25-HR"
-  },
-  {
-    "name": "Shroofus Sproutsire J25 #54",
-    "tcgplayerId": "589390",
-    "productId": "63195",
-    "productSku": "C572-J25-HR"
-  },
-  {
-    "name": "Hurska Sweet-Tooth J25 #53",
-    "tcgplayerId": "590486",
-    "productId": "63194",
-    "productSku": "C571-J25-HR"
-  },
-  {
-    "name": "Taeko, the Patient Avalanche J25 #39",
-    "tcgplayerId": "589391",
-    "productId": "63193",
-    "productSku": "C570-J25-HR"
-  },
-  {
-    "name": "Evereth, Viceroy of Plunder J25 #41",
-    "tcgplayerId": "590299",
-    "productId": "63192",
-    "productSku": "C569-J25-HR"
-  },
-  {
-    "name": "Scythecat Cub J25 #24",
-    "tcgplayerId": "589389",
-    "productId": "63191",
-    "productSku": "C568-J25-HR"
-  },
-  {
-    "name": "Rev, Tithe Extractor J25 #45",
-    "tcgplayerId": "590679",
-    "productId": "63190",
-    "productSku": "C567-J25-HR"
-  },
-  {
-    "name": "Aphelia, Viper Whisperer J25 #40",
-    "tcgplayerId": "589815",
-    "productId": "63189",
-    "productSku": "C566-J25-HR"
-  },
-  {
-    "name": "Exquisite Blood SLD #206",
-    "tcgplayerId": "259261",
-    "productId": "63188",
-    "productSku": "E157-SLD-HR-F"
-  },
-  {
-    "name": "Karazikar, the Eye Tyrant SLD Full Art #1791",
-    "tcgplayerId": "565179",
-    "productId": "63187",
-    "productSku": "C551-SLD-HR-F"
-  }
+    {
+        "name": "Encore Electromancer SLP #808 Foil",
+        "tcgplayerId": "557904",
+        "productId": "63134",
+        "productSku": "C189-SLD-HF-F",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0942-300x400.jpg"
+    },
+    {
+        "name": "Llanowar Elves FDN Showcase Art #429 Foil",
+        "tcgplayerId": "589449",
+        "productId": "65540",
+        "productSku": "C582-FDN-HF-S",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0907-300x400.jpg"
+    },
+    {
+        "name": "Bloodthirsty Conqueror FDN Showcase Art #426 Foil",
+        "tcgplayerId": "589427",
+        "productId": "65547",
+        "productSku": "C552-FDN-HF-S",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0910-300x400.jpg"
+    },
+    {
+        "name": "Braids, Arisen Nightmare PWCS #2 Foil",
+        "tcgplayerId": "516589",
+        "productId": "65545",
+        "productSku": "C583-PWCS-HF",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0909-300x400.jpg"
+    },
+    {
+        "name": "Tishana’s Tidebinder PJSC Full Art #1 Foil",
+        "tcgplayerId": "620140",
+        "productId": "65542",
+        "productSku": "C360-PJSC-HF-F",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0908-300x400.jpg"
+    },
+    {
+        "name": "Mox Opal 2XM #275 Foil",
+        "tcgplayerId": "218602",
+        "productId": "65536",
+        "productSku": "A114-2XM-HF",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0905-300x400.jpg"
+    },
+    {
+        "name": "Shadowborn Apostle SLD #688 Foil",
+        "tcgplayerId": "496085",
+        "productId": "65534",
+        "productSku": "C204-SLD-HF-F",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0904-300x400.jpg"
+    },
+    {
+        "name": "Swamp UNF #242 Foil",
+        "tcgplayerId": "257003",
+        "productId": "65559",
+        "productSku": "L182-UNF-HF-F",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0932-300x400.jpg"
+    },
+    {
+        "name": "Swamp UNF #237 Foil",
+        "tcgplayerId": "256994",
+        "productId": "65553",
+        "productSku": "L182-UNF-HF",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0931-300x400.jpg"
+    },
+    {
+        "name": "Forest UNF #239 Foil",
+        "tcgplayerId": "256997",
+        "productId": "65551",
+        "productSku": "L184-UNF-HF",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0928-300x400.jpg"
+    },
+    {
+        "name": "Plains UNF #235 Foil",
+        "tcgplayerId": "257000",
+        "productId": "65550",
+        "productSku": "L180-UNF-HF",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0930-300x400.jpg"
+    },
+    {
+        "name": "Mountain UNF #238 Foil",
+        "tcgplayerId": "257002",
+        "productId": "65549",
+        "productSku": "L183-UNF-HF",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0929-300x400.jpg"
+    },
+    {
+        "name": "Twinflame Tyrant FDN Showcase Art #427 Foil",
+        "tcgplayerId": "589448",
+        "productId": "65538",
+        "productSku": "C578-FDN-HF-S",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0906-300x400.jpg"
+    },
+    {
+        "name": "Zombie Master PRM #3 Full Art Foil",
+        "tcgplayerId": "518817",
+        "productId": "65572",
+        "productSku": "C585-PRM-HF-F",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0914-300x400.jpg"
+    },
+    {
+        "name": "The Lord of Pain DSC #3 Full Art Foil",
+        "tcgplayerId": "578900",
+        "productId": "65570",
+        "productSku": "C584-DSC-HF-F",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0913-300x400.jpg"
+    },
+    {
+        "name": "Mountain UNF #243 Foil",
+        "tcgplayerId": "256995",
+        "productId": "65563",
+        "productSku": "L183-UNF-HF-F",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0934-300x400.jpg"
+    },
+    {
+        "name": "Plains UNF #240 Foil",
+        "tcgplayerId": "256984",
+        "productId": "65562",
+        "productSku": "L180-UNF-HF-F",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0911-300x400.jpg"
+    },
+    {
+        "name": "Forest UNF #244 Foil",
+        "tcgplayerId": "256982",
+        "productId": "65561",
+        "productSku": "L184-UNF-HF-F",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0933-300x400.jpg"
+    },
+    {
+        "name": "Island UNF #241 Foil",
+        "tcgplayerId": "257005",
+        "productId": "65560",
+        "productSku": "L181-UNF-HF-F",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0935-300x400.jpg"
+    },
+    {
+        "name": "Island UNF #236 Foil",
+        "tcgplayerId": "256998",
+        "productId": "65552",
+        "productSku": "L181-UNF-HF",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0912-300x400.jpg"
+    },
+    {
+        "name": "Dragon Tempest PL24 #7 Foil",
+        "tcgplayerId": "587219",
+        "productId": "65585",
+        "productSku": "E208-PL24-HF",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0921-300x400.jpg"
+    },
+    {
+        "name": "Arcane Signet SLD #908 Full Art Foil",
+        "tcgplayerId": "587975",
+        "productId": "65583",
+        "productSku": "A156-SLD-HF-MV",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0920-300x400.jpg"
+    },
+    {
+        "name": "Spell Snare DIS #33 Foil",
+        "tcgplayerId": "13956",
+        "productId": "65581",
+        "productSku": "I207-DIS-RF",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0919-300x400.jpg"
+    },
+    {
+        "name": "Spell Pierce SLP #18 Full Art Foil",
+        "tcgplayerId": "528387",
+        "productId": "65578",
+        "productSku": "I206-SLP-HF-F",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0917-300x400.jpg"
+    },
+    {
+        "name": "Solphim, Mayhem Dominus ONE Full Art #312 Foil",
+        "tcgplayerId": "479511",
+        "productId": "65576",
+        "productSku": "C558-ONE-HF-F",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0916-300x400.jpg"
+    },
+    {
+        "name": "Demilich AFR #3 Extended Art Foil",
+        "tcgplayerId": "243283",
+        "productId": "65574",
+        "productSku": "C586-AFR-HF-E",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0915-300x400.jpg"
+    },
+    {
+        "name": "Faithless Looting STA #101 Full Art JP Foil",
+        "tcgplayerId": "235483",
+        "productId": "65597",
+        "productSku": "S191-STA-HF-J",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0927-300x400.jpg"
+    },
+    {
+        "name": "Day of Judgment FDN #422 Showcase Art Foil",
+        "tcgplayerId": "589404",
+        "productId": "65595",
+        "productSku": "S190-FDN-HF-S",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0926-300x400.jpg"
+    },
+    {
+        "name": "Muldrotha, the Gravetide FDN #430 Showcase Art Foil",
+        "tcgplayerId": "589775",
+        "productId": "65593",
+        "productSku": "C589-FDN-HF-S",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0925-300x400.jpg"
+    },
+    {
+        "name": "Herald of Eternal Dawn FDN #423 Showcase Art Foil",
+        "tcgplayerId": "589409",
+        "productId": "65591",
+        "productSku": "C588-FDN-HF-S",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0924-300x400.jpg"
+    },
+    {
+        "name": "Progenitus FDN #431 Showcase Art Foil",
+        "tcgplayerId": "589456",
+        "productId": "65589",
+        "productSku": "C587-FDN-HF-S",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0923-300x400.jpg"
+    },
+    {
+        "name": "Think Twice FDN #425 Showcase Art Foil",
+        "tcgplayerId": "589421",
+        "productId": "65587",
+        "productSku": "I208-FDN-HF-S",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0922-300x400.jpg"
+    },
+    {
+        "name": "Old Gnawbone AFR #197 Foil",
+        "tcgplayerId": "243293",
+        "productId": "65610",
+        "productSku": "C118-AFR-HF",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0944-300x400.jpg"
+    },
+    {
+        "name": "Shizo, Death’s Storehouse CHK #283 Foil",
+        "tcgplayerId": "12167",
+        "productId": "65608",
+        "productSku": "L175-CHK-RF",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0943-300x400.jpg"
+    },
+    {
+        "name": "Swamp SLD #361*",
+        "tcgplayerId": "259253",
+        "productId": "65606",
+        "productSku": "L182-SLD-361",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0941-300x400.jpg"
+    },
+    {
+        "name": "Grapeshot STA #102 Full Art JP Foil",
+        "tcgplayerId": "235516",
+        "productId": "65603",
+        "productSku": "S192-STA-HF-J",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0938-300x400.jpg"
+    },
+    {
+        "name": "Mox Opal SOM #179 Foil",
+        "tcgplayerId": "36238",
+        "productId": "65601",
+        "productSku": "A114-SOM-RF",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0937-300x400.jpg"
+    },
+    {
+        "name": "Kaito, Cunning Infiltrator FDN #424 Showcase Art Foil",
+        "tcgplayerId": "589415",
+        "productId": "65599",
+        "productSku": "P136-FDN-HF-S",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0936-300x400.jpg"
+    },
+    {
+        "name": "Bloodthirsty Conqueror FDN Extended Art #460 Foil",
+        "tcgplayerId": "589426",
+        "productId": "63143",
+        "productSku": "C552-FDN-HF-E",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0817-300x400.jpg"
+    },
+    {
+        "name": "Sire of Seven Deaths FDN Full Art #292 Foil",
+        "tcgplayerId": "591197",
+        "productId": "63140",
+        "productSku": "C548-FDN-HF-F",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0809-300x400.jpg"
+    },
+    {
+        "name": "Liliana of the Veil INR #475 Retro Foil",
+        "tcgplayerId": "600472",
+        "productId": "63135",
+        "productSku": "P105-INR-RF",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0814-300x400.jpg"
+    },
+    {
+        "name": "Urza’s Saga SCH Full Art #29 Foil",
+        "tcgplayerId": "562099",
+        "productId": "63133",
+        "productSku": "L142-SCH-HF-F",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0899-300x400.jpg"
+    },
+    {
+        "name": "Mana Vault SLD #796 Foil",
+        "tcgplayerId": "547733",
+        "productId": "63132",
+        "productSku": "A128-SLD-HF-F",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0815-300x400.jpg"
+    },
+    {
+        "name": "The Meathook Massacre INR Showcase Art #486",
+        "tcgplayerId": "600475",
+        "productId": "63223",
+        "productSku": "E111-INR-HR-S",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0811-300x400.jpg"
+    },
+    {
+        "name": "Edgar Markov INR #234 Foil",
+        "tcgplayerId": "596272",
+        "productId": "63222",
+        "productSku": "C188-INR-HF",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0883-300x400.jpg"
+    },
+    {
+        "name": "General Kreat, the Boltbringer J25 #48",
+        "tcgplayerId": "589385",
+        "productId": "63221",
+        "productSku": "C581-J25-RR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0847-300x400.jpg"
+    },
+    {
+        "name": "Dionus, Elvish Archdruid J25 #52",
+        "tcgplayerId": "590235",
+        "productId": "63220",
+        "productSku": "C580-J25-RR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0846-300x400.jpg"
+    },
+    {
+        "name": "Forsaken Wastes MIR #125",
+        "tcgplayerId": "5078",
+        "productId": "63219",
+        "productSku": "E207-MIR-RR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0830-300x400.jpg"
+    },
+    {
+        "name": "Eiganjo Castle CHK #275",
+        "tcgplayerId": "11985",
+        "productId": "63218",
+        "productSku": "L303-CHK-RR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0838-300x400.jpg"
+    },
+    {
+        "name": "The Meathook Massacre INR #387",
+        "tcgplayerId": "600474",
+        "productId": "63217",
+        "productSku": "E111-INR-RR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0833-300x400.jpg"
+    },
+    {
+        "name": "Snapcaster Mage INR #478",
+        "tcgplayerId": "600452",
+        "productId": "63216",
+        "productSku": "C189-INR-RR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0866-300x400.jpg"
+    },
+    {
+        "name": "Liliana of the Veil INR #475",
+        "tcgplayerId": "600472",
+        "productId": "63215",
+        "productSku": "P105-INR-RR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0865-300x400.jpg"
+    },
+    {
+        "name": "Hare Apparent FDN #15",
+        "tcgplayerId": "591214",
+        "productId": "63214",
+        "productSku": "C579-FDN-RR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0807-300x400.jpg"
+    },
+    {
+        "name": "Tombstone Stairwell MIR #149",
+        "tcgplayerId": "5268",
+        "productId": "63213",
+        "productSku": "E206-MIR-RR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0828-300x400.jpg"
+    },
+    {
+        "name": "Swords to Plowshares ICE #54",
+        "tcgplayerId": "4912",
+        "productId": "63212",
+        "productSku": "I138-ICE-RR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0863-300x400.jpg"
+    },
+    {
+        "name": "Twinflame Tyrant FDN Full Art #333",
+        "tcgplayerId": "589445",
+        "productId": "63211",
+        "productSku": "C578-FDN-HR-F",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0820-300x400.jpg"
+    },
+    {
+        "name": "Blasphemous Edict FDN Full Art #317",
+        "tcgplayerId": "591783",
+        "productId": "63210",
+        "productSku": "S189-FDN-HR-F",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0829-300x400.jpg"
+    },
+    {
+        "name": "Bloodthirsty Conqueror FDN Extended Art #460",
+        "tcgplayerId": "589426",
+        "productId": "63209",
+        "productSku": "C552-FDN-HR-E",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0902-300x400.jpg"
+    },
+    {
+        "name": "Bloodthirsty Conqueror FDN #58",
+        "tcgplayerId": "589328",
+        "productId": "63208",
+        "productSku": "C552-FDN-HR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0848-300x400.jpg"
+    },
+    {
+        "name": "Inventors’ Fair SLD #1735",
+        "tcgplayerId": "588019",
+        "productId": "63207",
+        "productSku": "L186-SLD-HR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0842-300x400.jpg"
+    },
+    {
+        "name": "Commander’s Plate SLD #1733",
+        "tcgplayerId": "588012",
+        "productId": "63206",
+        "productSku": "A190-SLD-HR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0835-300x400.jpg"
+    },
+    {
+        "name": "Sigarda’s Aid SLD #1727",
+        "tcgplayerId": "587993",
+        "productId": "63205",
+        "productSku": "E150-SLD-HR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0850-300x400.jpg"
+    },
+    {
+        "name": "Flawless Maneuver SLD #1728",
+        "tcgplayerId": "587995",
+        "productId": "63204",
+        "productSku": "I137-SLD-HR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0836-300x400.jpg"
+    },
+    {
+        "name": "Primal Vigor SLD #1749",
+        "tcgplayerId": "587980",
+        "productId": "63203",
+        "productSku": "E144-SLD-HR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0821-300x400.jpg"
+    },
+    {
+        "name": "Heroic Intervention SLD #1750",
+        "tcgplayerId": "587982",
+        "productId": "63202",
+        "productSku": "I112-SLD-HR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0844-300x400.jpg"
+    },
+    {
+        "name": "Neerdiv, Devious Diver J25 #36",
+        "tcgplayerId": "590551",
+        "productId": "63201",
+        "productSku": "C577-J25-HR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0822-300x400.jpg"
+    },
+    {
+        "name": "Pol Jamaar, Illusionist J25 #38",
+        "tcgplayerId": "592018",
+        "productId": "63200",
+        "productSku": "C576-J25-HR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0834-300x400.jpg"
+    },
+    {
+        "name": "Brimaz, King of Oreskos J25 #58",
+        "tcgplayerId": "589383",
+        "productId": "63199",
+        "productSku": "C575-J25-HR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0845-300x400.jpg"
+    },
+    {
+        "name": "Kodama of the West Tree J25 #78",
+        "tcgplayerId": "590506",
+        "productId": "63198",
+        "productSku": "C424-J25-HR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0825-300x400.jpg"
+    },
+    {
+        "name": "Vilis, Broker of Blood J25 #70",
+        "tcgplayerId": "589392",
+        "productId": "63197",
+        "productSku": "C574-J25-HR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0827-300x400.jpg"
+    },
+    {
+        "name": "Thurid, Mare of Destiny J25 #33",
+        "tcgplayerId": "590613",
+        "productId": "63196",
+        "productSku": "C573-J25-HR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0823-300x400.jpg"
+    },
+    {
+        "name": "Shroofus Sproutsire J25 #54",
+        "tcgplayerId": "589390",
+        "productId": "63195",
+        "productSku": "C572-J25-HR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0859-300x400.jpg"
+    },
+    {
+        "name": "Hurska Sweet-Tooth J25 #53",
+        "tcgplayerId": "590486",
+        "productId": "63194",
+        "productSku": "C571-J25-HR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0849-300x400.jpg"
+    },
+    {
+        "name": "Taeko, the Patient Avalanche J25 #39",
+        "tcgplayerId": "589391",
+        "productId": "63193",
+        "productSku": "C570-J25-HR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0824-300x400.jpg"
+    },
+    {
+        "name": "Evereth, Viceroy of Plunder J25 #41",
+        "tcgplayerId": "590299",
+        "productId": "63192",
+        "productSku": "C569-J25-HR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0831-300x400.jpg"
+    },
+    {
+        "name": "Scythecat Cub J25 #24",
+        "tcgplayerId": "589389",
+        "productId": "63191",
+        "productSku": "C568-J25-HR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0841-300x400.jpg"
+    },
+    {
+        "name": "Rev, Tithe Extractor J25 #45",
+        "tcgplayerId": "590679",
+        "productId": "63190",
+        "productSku": "C567-J25-HR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0805-300x400.jpg"
+    },
+    {
+        "name": "Aphelia, Viper Whisperer J25 #40",
+        "tcgplayerId": "589815",
+        "productId": "63189",
+        "productSku": "C566-J25-HR",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0806-300x400.jpg"
+    },
+    {
+        "name": "Exquisite Blood SLD #206",
+        "tcgplayerId": "259261",
+        "productId": "63188",
+        "productSku": "E157-SLD-HR-F",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0900-300x400.jpg"
+    },
+    {
+        "name": "Karazikar, the Eye Tyrant SLD Full Art #1791",
+        "tcgplayerId": "565179",
+        "productId": "63187",
+        "productSku": "C551-SLD-HR-F",
+        "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0891-300x400.jpg"
+    }
 ]
