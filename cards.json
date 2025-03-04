@@ -7734,5 +7734,565 @@
     "productId": "26073",
     "productSku": "L152-LTC-HF-SG",
     "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9262-300x400.jpg"
+  },
+  {
+    "name": "Minas Morgul LTC Surge Foil",
+    "tcgplayerId": "499379",
+    "productId": "26068",
+    "productSku": "L179-LTC-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9268-300x400.jpg"
+  },
+  {
+    "name": "Dinosaurs on a Spaceship WHO Surge Foil",
+    "tcgplayerId": "519330",
+    "productId": "26067",
+    "productSku": "C361-WHO-HF-ESG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9277-300x400.jpg"
+  },
+  {
+    "name": "Cloudstone Curio LTC Surge Foil",
+    "tcgplayerId": "498825",
+    "productId": "26066",
+    "productSku": "A137-LTC-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9272-300x400.jpg"
+  },
+  {
+    "name": "Cyber Conversion WHO Extended Art Surge Foil",
+    "tcgplayerId": "520102",
+    "productId": "26065",
+    "productSku": "I170-WHO-HF-ESG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9274-300x400.jpg"
+  },
+  {
+    "name": "Celestine, the Living Saint 40K Surge Foil",
+    "tcgplayerId": "286480",
+    "productId": "26064",
+    "productSku": "C375-40K-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9270-300x400.jpg"
+  },
+  {
+    "name": "Everybody Lives! WHO Extended Art Surge Foil",
+    "tcgplayerId": "519117",
+    "productId": "26061",
+    "productSku": "I164-WHO-HF-ESG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9283-300x400.jpg"
+  },
+  {
+    "name": "Cavern of Souls LTC Surge Foil",
+    "tcgplayerId": "498368",
+    "productId": "26071",
+    "productSku": "L144-LTC-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9264-300x400.jpg"
+  },
+  {
+    "name": "Carpet of Flowers WHO Extended Art Surge Foil",
+    "tcgplayerId": "519605",
+    "productId": "26070",
+    "productSku": "E125-WHO-HF-ESG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9266-300x400.jpg"
+  },
+  {
+    "name": "Galadriel, Light of Valinor LTC Surge Foil",
+    "tcgplayerId": "517869",
+    "productId": "26055",
+    "productSku": "C372-LTC-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9292-300x400.jpg"
+  },
+  {
+    "name": "Ghyrson Starn, Kelermorph 40K Surge Foil",
+    "tcgplayerId": "285867",
+    "productId": "26052",
+    "productSku": "C371-40K-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9294-300x400.jpg"
+  },
+  {
+    "name": "Karakas LTC Surge Foil",
+    "tcgplayerId": "499387",
+    "productId": "26048",
+    "productSku": "L151-LTC-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9296-300x400.jpg"
+  },
+  {
+    "name": "Kor Haven LTC Surge Foil",
+    "tcgplayerId": "499388",
+    "productId": "26047",
+    "productSku": "L214-LTC-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9298-300x400.jpg"
+  },
+  {
+    "name": "Legolas’s Quick Reflexes LTC Full Art Surge Foil",
+    "tcgplayerId": "517911",
+    "productId": "26046",
+    "productSku": "I168-LTC-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9300-300x400.jpg"
+  },
+  {
+    "name": "Ensnaring Bridge LTC Surge Foil",
+    "tcgplayerId": "488331",
+    "productId": "26060",
+    "productSku": "A174-LTC-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9279-300x400.jpg"
+  },
+  {
+    "name": "Everybody Lives! WHO Surge Foil",
+    "tcgplayerId": "519017",
+    "productId": "26059",
+    "productSku": "I164-WHO-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9281-300x400.jpg"
+  },
+  {
+    "name": "Exalted Flamer of Tzeentch 40K Surge Foil",
+    "tcgplayerId": "286182",
+    "productId": "26058",
+    "productSku": "C374-40K-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9286-300x400.jpg"
+  },
+  {
+    "name": "Farewell WHO Extended Art Surge Foil",
+    "tcgplayerId": "518953",
+    "productId": "26057",
+    "productSku": "S143-WHO-HF-ESG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9288-300x400.jpg"
+  },
+  {
+    "name": "Flesh Duplicate WHO Extended Art Surge Foil",
+    "tcgplayerId": "519403",
+    "productId": "26056",
+    "productSku": "C373-WHO-HF-ESG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9290-300x400.jpg"
+  },
+  {
+    "name": "Sunbaked Canyon WHO Surge Foil",
+    "tcgplayerId": "519459",
+    "productId": "26036",
+    "productSku": "L161-WHO-HF-ESG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9318-300x400.jpg"
+  },
+  {
+    "name": "Sword of Hearth and Home LTC Full Art Surge Foil",
+    "tcgplayerId": "499373",
+    "productId": "26035",
+    "productSku": "A185-LTC-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9320-300x400.jpg"
+  },
+  {
+    "name": "Bucklebury Ferry LTC Surge Foil",
+    "tcgplayerId": "499391",
+    "productId": "26044",
+    "productSku": "L247-LTC-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9304-300x400.jpg"
+  },
+  {
+    "name": "Reflecting Pool LTC Surge Foil",
+    "tcgplayerId": "499393",
+    "productId": "26043",
+    "productSku": "L173-LTC-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9306-300x400.jpg"
+  },
+  {
+    "name": "Rings of Brighthearth LTC Surge Foil",
+    "tcgplayerId": "498828",
+    "productId": "26042",
+    "productSku": "A212-LTC-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9308-300x400.jpg"
+  },
+  {
+    "name": "Sceptre of Eternal Glory 40K Surge Foil",
+    "tcgplayerId": "286410",
+    "productId": "26041",
+    "productSku": "A229-40K-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9310-300x400.jpg"
+  },
+  {
+    "name": "Shadow in the Warp 40K Surge Foil",
+    "tcgplayerId": "285941",
+    "productId": "26039",
+    "productSku": "E173-40K-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9312-300x400.jpg"
+  },
+  {
+    "name": "Shadowspear LTC Surge Foil",
+    "tcgplayerId": "498829",
+    "productId": "26038",
+    "productSku": "A108-LTC-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9314-300x400.jpg"
+  },
+  {
+    "name": "Shinka, the Bloodsoaked Keep LTC Surge Foil",
+    "tcgplayerId": "499394",
+    "productId": "26037",
+    "productSku": "L254-LTC-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9316-300x400.jpg"
+  },
+  {
+    "name": "Dol Amroth LTC Surge Foil",
+    "tcgplayerId": "499389",
+    "productId": "26045",
+    "productSku": "L230-LTC-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9302-300x400.jpg"
+  },
+  {
+    "name": "Sword of the Animist LTC Surge Foil",
+    "tcgplayerId": "499372",
+    "productId": "26034",
+    "productSku": "A153-LTC-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9322-300x400.jpg"
+  },
+  {
+    "name": "The Party Tree (The Great Henge) LTR Full Art Surge Foil",
+    "tcgplayerId": "488332",
+    "productId": "26033",
+    "productSku": "A122-LTR-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9324-300x400.jpg"
+  },
+  {
+    "name": "The One Ring LTR Extended Art Surge Foil",
+    "tcgplayerId": "517966",
+    "productId": "26032",
+    "productSku": "A189-LTR-HF-ESG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9326-300x400.jpg"
+  },
+  {
+    "name": "Argonath, Pillars of the Kings LTC Surge Foil",
+    "tcgplayerId": "498826",
+    "productId": "26031",
+    "productSku": "A129-LTC-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9328-300x400.jpg"
+  },
+  {
+    "name": "Thorn of Amethyst LTC Surge Foil",
+    "tcgplayerId": "499371",
+    "productId": "26030",
+    "productSku": "A168-LTC-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9330-300x400.jpg"
+  },
+  {
+    "name": "Triumph of Saint Katherine 40K Surge Foil",
+    "tcgplayerId": "286581",
+    "productId": "26028",
+    "productSku": "C368-40K-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9332-300x400.jpg"
+  },
+  {
+    "name": "Valley of Gorgoroth LTC Surge Foil",
+    "tcgplayerId": "488333",
+    "productId": "26027",
+    "productSku": "L147-LTC-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9334-300x400.jpg"
+  },
+  {
+    "name": "Yavimaya, Cradle of Growth LTC Surge Foil",
+    "tcgplayerId": "499375",
+    "productId": "26112",
+    "productSku": "L178-LTC-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9336-300x400.jpg"
+  },
+  {
+    "name": "Amulet of Vigor LCC Full Art Foil",
+    "tcgplayerId": "524257",
+    "productId": "24978",
+    "productSku": "A123-LCC-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9124-300x400.jpg"
+  },
+  {
+    "name": "Polyraptor SPG Full Art Foil",
+    "tcgplayerId": "525628",
+    "productId": "24976",
+    "productSku": "C363-SPG-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9136-300x400.jpg"
+  },
+  {
+    "name": "Giada, Font of Hope JP PWCS Foil",
+    "tcgplayerId": "492046",
+    "productId": "25025",
+    "productSku": "C370-PWCS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9031-300x400.jpg"
+  },
+  {
+    "name": "Chrome Mox PGPX Foil",
+    "tcgplayerId": "38409",
+    "productId": "24983",
+    "productSku": "A113-PGPX-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9114-300x400.jpg"
+  },
+  {
+    "name": "Scion of the Ur-Dragon TSP Foil",
+    "tcgplayerId": "14349",
+    "productId": "25018",
+    "productSku": "C369-TSP-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9047-300x400.jpg"
+  },
+  {
+    "name": "Chimil, the Inner Sun LCI Foil",
+    "tcgplayerId": "525249",
+    "productId": "25027",
+    "productSku": "A221-LCI-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9025-300x400.jpg"
+  },
+  {
+    "name": "Galadriel’s Dismissal LTC Full Art Foil",
+    "tcgplayerId": "517244",
+    "productId": "25024",
+    "productSku": "I169-LTC-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9035-300x400.jpg"
+  },
+  {
+    "name": "Hunting Velociraptor REX Full Art Foil",
+    "tcgplayerId": "525381",
+    "productId": "25023",
+    "productSku": "C362-REX-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9037-300x400.jpg"
+  },
+  {
+    "name": "Cavern of Souls LCI Foil",
+    "tcgplayerId": "517603",
+    "productId": "24957",
+    "productSku": "L144-LCI-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9174-300x400.jpg"
+  },
+  {
+    "name": "Temple Garden RVR Full Art",
+    "tcgplayerId": "517698",
+    "productId": "24956",
+    "productSku": "L109-RVR-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9021-300x400.jpg"
+  },
+  {
+    "name": "Ghalta, Stampede Tyrant LCI",
+    "tcgplayerId": "517522",
+    "productId": "24964",
+    "productSku": "C349-LCI-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9160-300x400.jpg"
+  },
+  {
+    "name": "Savage Order REX Full Art Foil",
+    "tcgplayerId": "525601",
+    "productId": "24963",
+    "productSku": "S168-REX-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9162-300x400.jpg"
+  },
+  {
+    "name": "Flaming Tyrannosaurus WHO Extended Art Foil",
+    "tcgplayerId": "519617",
+    "productId": "24961",
+    "productSku": "C352-WHO-HF-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9164-300x400.jpg"
+  },
+  {
+    "name": "Ondu Spiritdancer CMM Extended Art",
+    "tcgplayerId": "506854",
+    "productId": "24960",
+    "productSku": "C364-CMM-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9166-300x400.jpg"
+  },
+  {
+    "name": "Polyraptor SPG Full Art",
+    "tcgplayerId": "525628",
+    "productId": "24959",
+    "productSku": "C363-SPG-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9168-300x400.jpg"
+  },
+  {
+    "name": "Ghalta, Stampede Tyrant LCI Full Art Foil",
+    "tcgplayerId": "517523",
+    "productId": "24958",
+    "productSku": "C349-LCI-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9172-300x400.jpg"
+  },
+  {
+    "name": "Fellwar Stone SLD Foil",
+    "tcgplayerId": "450573",
+    "productId": "24971",
+    "productSku": "A168-SLD-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9144-300x400.jpg"
+  },
+  {
+    "name": "Vault of the Archangel SLD Foil",
+    "tcgplayerId": "251759",
+    "productId": "24970",
+    "productSku": "L253-SLD-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9146-300x400.jpg"
+  },
+  {
+    "name": "The Celestial Toymaker SLD",
+    "tcgplayerId": "530392",
+    "productId": "24969",
+    "productSku": "C365-SLD-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9150-300x400.jpg"
+  },
+  {
+    "name": "Smuggler’s Copter SLD Foil",
+    "tcgplayerId": "279354",
+    "productId": "24968",
+    "productSku": "A222-SLD-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_8982-300x400.jpg"
+  },
+  {
+    "name": "Ravenous Tyrannosaurus REX Full Art Foil",
+    "tcgplayerId": "524281",
+    "productId": "24967",
+    "productSku": "C357-REX-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9154-300x400.jpg"
+  },
+  {
+    "name": "Farewell NEO Extended Art",
+    "tcgplayerId": "262830",
+    "productId": "24966",
+    "productSku": "S143-NEO-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9156-300x400.jpg"
+  },
+  {
+    "name": "Phyrexian Metamorph SLD",
+    "tcgplayerId": "450541",
+    "productId": "24965",
+    "productSku": "C316-SLD-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9158-300x400.jpg"
+  },
+  {
+    "name": "The Fourteenth Doctor SLD Foil",
+    "tcgplayerId": "530360",
+    "productId": "24975",
+    "productSku": "C367-SLD-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9138-300x400.jpg"
+  },
+  {
+    "name": "The Fourteenth Doctor SLD",
+    "tcgplayerId": "530360",
+    "productId": "24974",
+    "productSku": "C367-SLD-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9130-300x400.jpg"
+  },
+  {
+    "name": "The Fifteenth Doctor SLD Foil",
+    "tcgplayerId": "530788",
+    "productId": "24973",
+    "productSku": "C366-SLD-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9140-300x400.jpg"
+  },
+  {
+    "name": "The Fifteenth Doctor SLD",
+    "tcgplayerId": "530788",
+    "productId": "24972",
+    "productSku": "C366-SLD-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9142-300x400.jpg"
+  },
+  {
+    "name": "Virtue of Persistence WOE Storybook Art Foil",
+    "tcgplayerId": "512609",
+    "productId": "24982",
+    "productSku": "E172-WOE-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9116-300x400.jpg"
+  },
+  {
+    "name": "Virtue of Loyalty WOE Storybook Art Foil",
+    "tcgplayerId": "512600",
+    "productId": "24981",
+    "productSku": "E171-WOE-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9118-300x400.jpg"
+  },
+  {
+    "name": "Gaea’s Cradle OLGC*",
+    "tcgplayerId": "",
+    "productId": "24980",
+    "productSku": "L149-OLGC-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9120-300x400.jpg"
+  },
+  {
+    "name": "Coat of Arms LCC Full Art Foil",
+    "tcgplayerId": "526437",
+    "productId": "24979",
+    "productSku": "A131-LCC-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9122-300x400.jpg"
+  },
+  {
+    "name": "Expedition Map 2XM Full Art",
+    "tcgplayerId": "218258",
+    "productId": "24977",
+    "productSku": "A224-2XM-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9134-300x400.jpg"
+  },
+  {
+    "name": "The One Ring LTR #246",
+    "tcgplayerId": "487805",
+    "productId": "25003",
+    "productSku": "A189-LTR-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9088-300x400.jpg"
+  },
+  {
+    "name": "Chalice of the Void LCC Extended Art",
+    "tcgplayerId": "524259",
+    "productId": "25000",
+    "productSku": "A107-LCC-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9090-300x400.jpg"
+  },
+  {
+    "name": "Robe of Stars AFC Extended Art",
+    "tcgplayerId": "244215",
+    "productId": "24999",
+    "productSku": "A226-AFC-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9092-300x400.jpg"
+  },
+  {
+    "name": "Takenuma, Abandoned Mire NEO Full Art #416",
+    "tcgplayerId": "262422",
+    "productId": "24995",
+    "productSku": "L248-NEO-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/12/IMG_0726-300x400.jpg"
+  },
+  {
+    "name": "Phyrexian Metamorph 2XM Full Art Foil",
+    "tcgplayerId": "218607",
+    "productId": "24993",
+    "productSku": "C316-2XM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9098-300x400.jpg"
+  },
+  {
+    "name": "The Reaver Cleaver DMC Extended Art",
+    "tcgplayerId": "283214",
+    "productId": "24989",
+    "productSku": "A225-DMC-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9106-300x400.jpg"
+  },
+  {
+    "name": "Cavern of Souls LCI",
+    "tcgplayerId": "517603",
+    "productId": "24985",
+    "productSku": "L144-LCI-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9108-300x400.jpg"
+  },
+  {
+    "name": "Phyrexian Metamorph 2XM Full Art",
+    "tcgplayerId": "218607",
+    "productId": "25010",
+    "productSku": "C316-2XM-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9067-300x400.jpg"
+  },
+  {
+    "name": "Emrakul, the Promised End SLD",
+    "tcgplayerId": "517767",
+    "productId": "25009",
+    "productSku": "C111-SLD-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9069-300x400.jpg"
+  },
+  {
+    "name": "Chromatic Orrery LCC Full Art Foil",
+    "tcgplayerId": "524425",
+    "productId": "25007",
+    "productSku": "A150-LCC-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9073-300x400.jpg"
+  },
+  {
+    "name": "Bloodletter of Aclazotz LCI Full Art",
+    "tcgplayerId": "524419",
+    "productId": "25006",
+    "productSku": "C358-LCI-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9075-300x400.jpg"
+  },
+  {
+    "name": "Blind Obedience SLD",
+    "tcgplayerId": "450583",
+    "productId": "25005",
+    "productSku": "E170-SLD-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9077-300x400.jpg"
   }
 ]
