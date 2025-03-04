@@ -1982,7 +1982,7 @@
   },
   {
     "name": "Abhorrent Oculus DSK Full Art #344",
-    "tcgplayerId": "",
+    "tcgplayerId": "578052",
     "productId": "58310",
     "productSku": "C528-DSK-HR-F",
     "productImg": "https://bootlegmage.com/wp-content/uploads/2024/11/IMG_0603-300x400.jpg"
@@ -2507,7 +2507,7 @@
   },
   {
     "name": "Mockingbird BLB Showcase Art #305",
-    "tcgplayerId": "",
+    "tcgplayerId": "559142",
     "productId": "55618",
     "productSku": "C512-BLB-HR-S",
     "productImg": "https://bootlegmage.com/wp-content/uploads/2024/10/IMG_0497-300x400.jpg"
@@ -2563,7 +2563,7 @@
   },
   {
     "name": "Lumra, Bellow of the Woods BLB Showcase Art #293",
-    "tcgplayerId": "",
+    "tcgplayerId": "541393",
     "productId": "55628",
     "productSku": "C484-BLB-HR-S",
     "productImg": "https://bootlegmage.com/wp-content/uploads/2024/10/IMG_0502-300x400.jpg"
@@ -2724,14 +2724,14 @@
   },
   {
     "name": "Rottenmouth Viper BLB Showcase Art #290",
-    "tcgplayerId": "",
+    "tcgplayerId": "559524",
     "productId": "55693",
     "productSku": "C516-BLB-HR-S",
     "productImg": "https://bootlegmage.com/wp-content/uploads/2024/10/IMG_0535-300x400.jpg"
   },
   {
     "name": "Ygra, Eater of All BLB Showcase Art #294",
-    "tcgplayerId": "",
+    "tcgplayerId": "558360",
     "productId": "55691",
     "productSku": "C513-BLB-HR-S",
     "productImg": "https://bootlegmage.com/wp-content/uploads/2024/10/IMG_0534-300x400.jpg"
@@ -2745,7 +2745,7 @@
   },
   {
     "name": "Jace, the Mind Sculptor BLC # 75",
-    "tcgplayerId": "",
+    "tcgplayerId": "558389",
     "productId": "55713",
     "productSku": "P101-BLC-HR-F",
     "productImg": "https://bootlegmage.com/wp-content/uploads/2024/10/IMG_0544-300x400.jpg"
@@ -6579,5 +6579,1160 @@
     "productId": "35292",
     "productSku": "E174-RVR-HF-F",
     "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9645-2-300x400.jpg"
+  },
+  {
+    "name": "Sol Ring PIP Full Art Foil",
+    "tcgplayerId": "523077",
+    "productId": "35279",
+    "productSku": "A135-PIP-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9651-2-300x400.jpg"
+  },
+  {
+    "name": "Aragorn the Uniter LTR Hand Drawn Foil",
+    "tcgplayerId": "517446",
+    "productId": "35274",
+    "productSku": "C307-LTR-HF-H",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9655-2-300x400.jpg"
+  },
+  {
+    "name": "Underground Mortuary MKM Full Art",
+    "tcgplayerId": "532941",
+    "productId": "35230",
+    "productSku": "L255-MKM-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9676-3-300x400.jpg"
+  },
+  {
+    "name": "Island SLD JungShan Foil",
+    "tcgplayerId": "517787",
+    "productId": "35221",
+    "productSku": "L181-SLD-HF-JS",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9682-2-300x400.jpg"
+  },
+  {
+    "name": "Warleader’s Call MKM",
+    "tcgplayerId": "532872",
+    "productId": "35304",
+    "productSku": "E180-MKM-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9638-2-300x400.jpg"
+  },
+  {
+    "name": "Wasteland PIP Full Art Foil",
+    "tcgplayerId": "523076",
+    "productId": "35302",
+    "productSku": "L147-PIP-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9640-2-300x400.jpg"
+  },
+  {
+    "name": "Rat Colony SLD Foil",
+    "tcgplayerId": "207466",
+    "productId": "35300",
+    "productSku": "C401-SLD-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9641-2-300x400.jpg"
+  },
+  {
+    "name": "Undercity Sewers MKM Full Art",
+    "tcgplayerId": "532899",
+    "productId": "35298",
+    "productSku": "L257-MKM-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9642-2-300x400.jpg"
+  },
+  {
+    "name": "Ghalta, Primal Hunger SPG Extended Art Foil",
+    "tcgplayerId": "525626",
+    "productId": "35318",
+    "productSku": "C402-SPG-HF-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9631-2-300x400.jpg"
+  },
+  {
+    "name": "Mana Echoes ONS",
+    "tcgplayerId": "10527",
+    "productId": "35316",
+    "productSku": "E181-ONS-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9632-2-300x400.jpg"
+  },
+  {
+    "name": "Vein Ripper MKM Showcase Art",
+    "tcgplayerId": "533410",
+    "productId": "35314",
+    "productSku": "C400-MKM-HR-S",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9633-2-300x400.jpg"
+  },
+  {
+    "name": "Blood Moon WOT Anime Art Foil",
+    "tcgplayerId": "512561",
+    "productId": "35312",
+    "productSku": "E109-WOT-HF-A",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9634-2-300x400.jpg"
+  },
+  {
+    "name": "Galadriel, Light of Valinor LTC Full Art",
+    "tcgplayerId": "517243",
+    "productId": "35310",
+    "productSku": "C372-LTC-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9635-3-300x400.jpg"
+  },
+  {
+    "name": "Badlands Summer Magic*",
+    "tcgplayerId": "211746",
+    "productId": "35339",
+    "productSku": "L123-SUM-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9615-2-300x400.jpg"
+  },
+  {
+    "name": "Plateau Summer Magic*",
+    "tcgplayerId": "211749",
+    "productId": "35338",
+    "productSku": "L129-SUM-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9617-2-300x400.jpg"
+  },
+  {
+    "name": "Swamp SLD JungShan Foil",
+    "tcgplayerId": "517788",
+    "productId": "35328",
+    "productSku": "L182-SLD-HF-JS",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9625-2-300x400.jpg"
+  },
+  {
+    "name": "Laelia, the Blade Reforged MH3 Full Art",
+    "tcgplayerId": "541300",
+    "productId": "35324",
+    "productSku": "C403-MH3-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9628-2-300x400.jpg"
+  },
+  {
+    "name": "Massacre Girl, Known Killer MKM",
+    "tcgplayerId": "532891",
+    "productId": "35322",
+    "productSku": "C395-MKM-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9629-2-300x400.jpg"
+  },
+  {
+    "name": "Show and Tell SPG Full Art",
+    "tcgplayerId": "532987",
+    "productId": "35320",
+    "productSku": "S125-SPG-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9630-2-300x400.jpg"
+  },
+  {
+    "name": "Bayou Summer Magic*",
+    "tcgplayerId": "211748",
+    "productId": "35337",
+    "productSku": "L128-SUM-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9616-2-300x400.jpg"
+  },
+  {
+    "name": "Volcanic Island Summer Magic*",
+    "tcgplayerId": "211766",
+    "productId": "35336",
+    "productSku": "L127-SUM-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9624-2-300x400.jpg"
+  },
+  {
+    "name": "Savannah Summer Magic*",
+    "tcgplayerId": "211752",
+    "productId": "35335",
+    "productSku": "L125-SUM-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9618-2-300x400.jpg"
+  },
+  {
+    "name": "Scrubland Summer Magic*",
+    "tcgplayerId": "211753",
+    "productId": "35334",
+    "productSku": "L126-SUM-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9619-2-300x400.jpg"
+  },
+  {
+    "name": "Taiga Summer Magic*",
+    "tcgplayerId": "211757",
+    "productId": "35333",
+    "productSku": "L124-SUM-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9620-2-300x400.jpg"
+  },
+  {
+    "name": "Underground Sea Summer Magic*",
+    "tcgplayerId": "211765",
+    "productId": "35332",
+    "productSku": "L122-SUM-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9623-2-300x400.jpg"
+  },
+  {
+    "name": "Tundra Summer Magic*",
+    "tcgplayerId": "211763",
+    "productId": "35331",
+    "productSku": "L121-SUM-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9622-2-300x400.jpg"
+  },
+  {
+    "name": "Tropical Island FBB Italian",
+    "tcgplayerId": "",
+    "productId": "35359",
+    "productSku": "L130-FBB-RR-IT",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9607-2-300x400.jpg"
+  },
+  {
+    "name": "Plateau FBB Italian",
+    "tcgplayerId": "",
+    "productId": "35358",
+    "productSku": "L129-FBB-RR-IT",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9605-2-300x400.jpg"
+  },
+  {
+    "name": "Bayou FBB Italian",
+    "tcgplayerId": "",
+    "productId": "35357",
+    "productSku": "L128-FBB-RR-IT",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9606-2-300x400.jpg"
+  },
+  {
+    "name": "Volcanic Island FBB Italian",
+    "tcgplayerId": "",
+    "productId": "35356",
+    "productSku": "L127-FBB-RR-IT",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9608-2-300x400.jpg"
+  },
+  {
+    "name": "Scrubland FBB Italian",
+    "tcgplayerId": "",
+    "productId": "35355",
+    "productSku": "L126-FBB-RR-IT",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9612-2-300x400.jpg"
+  },
+  {
+    "name": "Tropical Island Summer Magic*",
+    "tcgplayerId": "211758",
+    "productId": "35330",
+    "productSku": "L130-SUM-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9621-2-300x400.jpg"
+  },
+  {
+    "name": "Savannah FBB Italian",
+    "tcgplayerId": "",
+    "productId": "35354",
+    "productSku": "L125-FBB-RR-IT",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9611-2-300x400.jpg"
+  },
+  {
+    "name": "Taiga FBB Italian",
+    "tcgplayerId": "",
+    "productId": "35353",
+    "productSku": "L124-FBB-RR-IT",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9613-2-300x400.jpg"
+  },
+  {
+    "name": "Badlands FBB Italian",
+    "tcgplayerId": "",
+    "productId": "35352",
+    "productSku": "L123-FBB-RR-IT",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9609-2-300x400.jpg"
+  },
+  {
+    "name": "Underground Sea FBB Italian",
+    "tcgplayerId": "",
+    "productId": "35351",
+    "productSku": "L122-FBB-RR-IT",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9610-2-300x400.jpg"
+  },
+  {
+    "name": "Tundra FBB Italian",
+    "tcgplayerId": "",
+    "productId": "35350",
+    "productSku": "L121-FBB-RR-IT",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9614-2-300x400.jpg"
+  },
+  {
+    "name": "Everybody Lives! WHO Foil*",
+    "tcgplayerId": "519017",
+    "productId": "35402",
+    "productSku": "I164-WHO-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9282-1-300x400.jpg"
+  },
+  {
+    "name": "Portal to Phyrexia BRO Foil*",
+    "tcgplayerId": "451962",
+    "productId": "35394",
+    "productSku": "A141-BRO-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/02/IMG_3655-300x400.jpg"
+  },
+  {
+    "name": "Vesuva TSP",
+    "tcgplayerId": "14418",
+    "productId": "35390",
+    "productSku": "L260-TSP-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/04/IMG_9574-2-300x400.jpg"
+  },
+  {
+    "name": "Nuka-Cola Vending Machine PIP Full Art",
+    "tcgplayerId": "523121",
+    "productId": "32157",
+    "productSku": "A241-PIP-RR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9569-300x400.jpg"
+  },
+  {
+    "name": "Orcish Bowmasters LTR Showcase Scrolls",
+    "tcgplayerId": "518043",
+    "productId": "32176",
+    "productSku": "C303-LTR-HR-SS",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9559-300x400.jpg"
+  },
+  {
+    "name": "The One Ring LTR Showcase Scrolls",
+    "tcgplayerId": "517987",
+    "productId": "32174",
+    "productSku": "A189-LTR-HR-SS",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9560-300x400.jpg"
+  },
+  {
+    "name": "Raise the Palisade LTC Extended Art",
+    "tcgplayerId": "500031",
+    "productId": "32168",
+    "productSku": "S169-LTC-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9563-300x400.jpg"
+  },
+  {
+    "name": "Scion of Draco MH2 Full Art",
+    "tcgplayerId": "239831",
+    "productId": "32248",
+    "productSku": "C388-MH2-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9541-300x400.jpg"
+  },
+  {
+    "name": "Leyline of the Guildpact MKM",
+    "tcgplayerId": "534638",
+    "productId": "32243",
+    "productSku": "E179-MKM-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9544-300x400.jpg"
+  },
+  {
+    "name": "Trouble in Pairs MKC Extended Art",
+    "tcgplayerId": "536016",
+    "productId": "32241",
+    "productSku": "E177-MKC-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9547-300x400.jpg"
+  },
+  {
+    "name": "Lightning Greaves SLD #1493",
+    "tcgplayerId": "528208",
+    "productId": "32155",
+    "productSku": "A121-SLD-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9570-300x400.jpg"
+  },
+  {
+    "name": "Aragorn the Uniter LTR Hand Drawn",
+    "tcgplayerId": "517446",
+    "productId": "32152",
+    "productSku": "C307-LTR-HR-H",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9571-300x400.jpg"
+  },
+  {
+    "name": "Radstorm PIP",
+    "tcgplayerId": "522928",
+    "productId": "32150",
+    "productSku": "I171-PIP-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9572-300x400.jpg"
+  },
+  {
+    "name": "Mr. House, President and CEO PIP Extended Art",
+    "tcgplayerId": "523126",
+    "productId": "32172",
+    "productSku": "C384-PIP-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9561-300x400.jpg"
+  },
+  {
+    "name": "Underworld Breach SPG Full Art",
+    "tcgplayerId": "524252",
+    "productId": "32170",
+    "productSku": "E152-SPG-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9562-300x400.jpg"
+  },
+  {
+    "name": "Kenrith, the Returned King LTC Full Art",
+    "tcgplayerId": "518669",
+    "productId": "32166",
+    "productSku": "C383-LTC-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9564-300x400.jpg"
+  },
+  {
+    "name": "Batterskull NPH",
+    "tcgplayerId": "39489",
+    "productId": "32164",
+    "productSku": "A242-NPH-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9565-300x400.jpg"
+  },
+  {
+    "name": "Goblin Welder CM2",
+    "tcgplayerId": "166822",
+    "productId": "32162",
+    "productSku": "C382-CM2-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9566-300x400.jpg"
+  },
+  {
+    "name": "Branching Evolution LCC",
+    "tcgplayerId": "526083",
+    "productId": "32159",
+    "productSku": "E176-LCC-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9568-300x400.jpg"
+  },
+  {
+    "name": "Passionate Archaeologist CLB Extended Art",
+    "tcgplayerId": "273860",
+    "productId": "32199",
+    "productSku": "C385-CLB-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9555-300x400.jpg"
+  },
+  {
+    "name": "Mutavault MOR",
+    "tcgplayerId": "18023",
+    "productId": "32183",
+    "productSku": "L231-MOR-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9556-300x400.jpg"
+  },
+  {
+    "name": "Cavern of Souls LCI Full Art",
+    "tcgplayerId": "517606",
+    "productId": "32180",
+    "productSku": "L144-LCI-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9557-300x400.jpg"
+  },
+  {
+    "name": "Command Tower SLD #744",
+    "tcgplayerId": "530416",
+    "productId": "32178",
+    "productSku": "L229-SLD-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0879-300x400.jpg"
+  },
+  {
+    "name": "Trouble in Pairs MKC",
+    "tcgplayerId": "535640",
+    "productId": "32214",
+    "productSku": "E177-MKC-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9548-300x400.jpg"
+  },
+  {
+    "name": "Sol Ring SLD #1494",
+    "tcgplayerId": "528210",
+    "productId": "32211",
+    "productSku": "A135-SLD-HR-FA",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9549-300x400.jpg"
+  },
+  {
+    "name": "Mount Doom LTR Hand Drawn",
+    "tcgplayerId": "517447",
+    "productId": "32209",
+    "productSku": "L239-LTR-HR-H",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9550-300x400.jpg"
+  },
+  {
+    "name": "Nekusar, the Mindrazer SLD",
+    "tcgplayerId": "501900",
+    "productId": "32207",
+    "productSku": "C386-SLD-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9551-300x400.jpg"
+  },
+  {
+    "name": "Palantir of Orthanc LTR Hand Drawn",
+    "tcgplayerId": "518157",
+    "productId": "32205",
+    "productSku": "A203-LTR-HR-H",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9552-300x400.jpg"
+  },
+  {
+    "name": "Crashing Footfalls SPG Full Art",
+    "tcgplayerId": "530023",
+    "productId": "32202",
+    "productSku": "S170-SPG-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9554-300x400.jpg"
+  },
+  {
+    "name": "Wasteland PIP Full Art",
+    "tcgplayerId": "523076",
+    "productId": "32229",
+    "productSku": "L147-PIP-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9538-300x400.jpg"
+  },
+  {
+    "name": "Gandalf the White LTR Hand Drawn",
+    "tcgplayerId": "517448",
+    "productId": "32226",
+    "productSku": "C306-LTR-HR-H",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9539-300x400.jpg"
+  },
+  {
+    "name": "Field of the Dead SLD Full Art",
+    "tcgplayerId": "517872",
+    "productId": "32224",
+    "productSku": "L155-SLD-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9540-300x400.jpg"
+  },
+  {
+    "name": "Last March of the Ents LTR Hand Drawn",
+    "tcgplayerId": "518163",
+    "productId": "32219",
+    "productSku": "S161-LTR-HR-H",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9543-300x400.jpg"
+  },
+  {
+    "name": "Field of the Dead SPG Full Art",
+    "tcgplayerId": "532982",
+    "productId": "32216",
+    "productSku": "L155-SPG-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9545-300x400.jpg"
+  },
+  {
+    "name": "Saruman of Many Colors LTR Hand Drawn",
+    "tcgplayerId": "517450",
+    "productId": "32239",
+    "productSku": "C310-LTR-HR-H",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9534-300x400.jpg"
+  },
+  {
+    "name": "Goblin Guide SLP",
+    "tcgplayerId": "537912",
+    "productId": "32236",
+    "productSku": "C387-SLP-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9535-300x400.jpg"
+  },
+  {
+    "name": "Humility TMP",
+    "tcgplayerId": "5589",
+    "productId": "32234",
+    "productSku": "E178-TMP-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9536-300x400.jpg"
+  },
+  {
+    "name": "Arcane Signet SLD #1492",
+    "tcgplayerId": "528209",
+    "productId": "32232",
+    "productSku": "A156-SLD-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9537-300x400.jpg"
+  },
+  {
+    "name": "Scion of Draco MH2",
+    "tcgplayerId": "239830",
+    "productId": "32246",
+    "productSku": "C388-MH2-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/03/IMG_9542-300x400.jpg"
+  },
+  {
+    "name": "The Meathook Massacre MID*",
+    "tcgplayerId": "248213",
+    "productId": "32409",
+    "productSku": "E111-MID-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8187-300x400.jpg"
+  },
+  {
+    "name": "Guardian Project RVR Full Art",
+    "tcgplayerId": "530837",
+    "productId": "28939",
+    "productSku": "E154-RVR-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9530-300x400.jpg"
+  },
+  {
+    "name": "Command Beacon CMR Extended Art",
+    "tcgplayerId": "226998",
+    "productId": "28890",
+    "productSku": "L225-CMR-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9491-300x400.jpg"
+  },
+  {
+    "name": "Virtue of Persistence WOE Foil",
+    "tcgplayerId": "512610",
+    "productId": "28887",
+    "productSku": "E172-WOE-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9517-300x400.jpg"
+  },
+  {
+    "name": "Mental Misstep SLD",
+    "tcgplayerId": "456636",
+    "productId": "28886",
+    "productSku": "I157-SLD-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9519-300x400.jpg"
+  },
+  {
+    "name": "Thrasios, Triton Hero SPG",
+    "tcgplayerId": "524251",
+    "productId": "28885",
+    "productSku": "C246-SPG-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9521-300x400.jpg"
+  },
+  {
+    "name": "Divine Visitation RVR Full Art",
+    "tcgplayerId": "530804",
+    "productId": "28901",
+    "productSku": "E174-RVR-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9470-300x400.jpg"
+  },
+  {
+    "name": "Crypt Ghast RVR Full Art",
+    "tcgplayerId": "530798",
+    "productId": "28900",
+    "productSku": "C380-RVR-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9475-300x400.jpg"
+  },
+  {
+    "name": "Lord of the Void RVR Full Art",
+    "tcgplayerId": "530852",
+    "productId": "28899",
+    "productSku": "C230-RVR-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9477-300x400.jpg"
+  },
+  {
+    "name": "Greensleeves, Maro-Sorcerer DMC",
+    "tcgplayerId": "283692",
+    "productId": "28898",
+    "productSku": "C379-DMC-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9479-300x400.jpg"
+  },
+  {
+    "name": "Vorinclex, Monstrous Raider KHM Concept Praetor",
+    "tcgplayerId": "475528",
+    "productId": "28897",
+    "productSku": "C227-KHM-HR-C",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9528-300x400.jpg"
+  },
+  {
+    "name": "Blood Moon WOT Anime Art",
+    "tcgplayerId": "512561",
+    "productId": "28892",
+    "productSku": "E109-WOT-HR-A",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9483-300x400.jpg"
+  },
+  {
+    "name": "Captivating Vampire C17",
+    "tcgplayerId": "139913",
+    "productId": "28891",
+    "productSku": "C378-C17-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9487-300x400.jpg"
+  },
+  {
+    "name": "Swamp Tokyo SLD JP",
+    "tcgplayerId": "279233",
+    "productId": "28908",
+    "productSku": "L182-SLD-HR-TJ",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9458-300x400.jpg"
+  },
+  {
+    "name": "Forest Tokyo SLD JP",
+    "tcgplayerId": "279223",
+    "productId": "28907",
+    "productSku": "L184-SLD-HR-TJ",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9525-300x400.jpg"
+  },
+  {
+    "name": "Mountain Tokyo SLD JP",
+    "tcgplayerId": "279229",
+    "productId": "28906",
+    "productSku": "L183-SLD-HR-TJ",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9456-300x400.jpg"
+  },
+  {
+    "name": "Plains Tokyo SLD JP",
+    "tcgplayerId": "279231",
+    "productId": "28905",
+    "productSku": "L180-SLD-HR-TJ",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9462-300x400.jpg"
+  },
+  {
+    "name": "Sol Ring PIP Full Art",
+    "tcgplayerId": "523077",
+    "productId": "28904",
+    "productSku": "A135-PIP-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9464-300x400.jpg"
+  },
+  {
+    "name": "Cathars’ Crusade JMP",
+    "tcgplayerId": "216264",
+    "productId": "28903",
+    "productSku": "E175-JMP-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9466-300x400.jpg"
+  },
+  {
+    "name": "Vito, Thorn of the Dusk Rose J22",
+    "tcgplayerId": "454943",
+    "productId": "28902",
+    "productSku": "C381-J22-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9468-300x400.jpg"
+  },
+  {
+    "name": "Greensleeves, Maro-Sorcerer DMC Extended Art",
+    "tcgplayerId": "283671",
+    "productId": "28921",
+    "productSku": "C379-DMC-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9439-300x400.jpg"
+  },
+  {
+    "name": "Island SLD JungShan",
+    "tcgplayerId": "517787",
+    "productId": "28917",
+    "productSku": "L181-SLD-HR-JS",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9450-300x400.jpg"
+  },
+  {
+    "name": "Swamp SLD JungShan",
+    "tcgplayerId": "517788",
+    "productId": "28916",
+    "productSku": "L182-SLD-HR-JS",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9447-300x400.jpg"
+  },
+  {
+    "name": "Forest SLD JungShan",
+    "tcgplayerId": "517790",
+    "productId": "28915",
+    "productSku": "L184-SLD-HR-JS",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9449-300x400.jpg"
+  },
+  {
+    "name": "Mountain SLD JungShan",
+    "tcgplayerId": "517789",
+    "productId": "28914",
+    "productSku": "L183-SLD-HR-JS",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9445-300x400.jpg"
+  },
+  {
+    "name": "Plains SLD JungShan",
+    "tcgplayerId": "517783",
+    "productId": "28913",
+    "productSku": "L180-SLD-HR-JS",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9453-300x400.jpg"
+  },
+  {
+    "name": "Island Tokyo SLD JP",
+    "tcgplayerId": "279225",
+    "productId": "28909",
+    "productSku": "L181-SLD-HR-TJ",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9460-300x400.jpg"
+  },
+  {
+    "name": "Polyraptor RIX",
+    "tcgplayerId": "155642",
+    "productId": "28922",
+    "productSku": "C363-RIX-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9455-300x400.jpg"
+  },
+  {
+    "name": "Cyclonic Rift RVR Retro Foil",
+    "tcgplayerId": "530801",
+    "productId": "26786",
+    "productSku": "I102-RVR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9438-300x400.jpg"
+  },
+  {
+    "name": "Command Tower SLD Pixel Foil",
+    "tcgplayerId": "530421",
+    "productId": "26801",
+    "productSku": "L229-SLD-RF-P",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9419-300x400.jpg"
+  },
+  {
+    "name": "Thoughtseize SLD Etched Foil",
+    "tcgplayerId": "450561",
+    "productId": "26844",
+    "productSku": "S104-SLD-HF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9352-300x400.jpg"
+  },
+  {
+    "name": "Snow-Covered Island SLD Etched Foil",
+    "tcgplayerId": "259203",
+    "productId": "26849",
+    "productSku": "L181-SLD-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9348-300x400.jpg"
+  },
+  {
+    "name": "Force of Negation H1R #9 Etched Foil",
+    "tcgplayerId": "239399",
+    "productId": "26859",
+    "productSku": "I103-H1R-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9340-300x400.jpg"
+  },
+  {
+    "name": "Lord of the Void RVR Retro Foil",
+    "tcgplayerId": "530851",
+    "productId": "26782",
+    "productSku": "C230-RVR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9434-300x400.jpg"
+  },
+  {
+    "name": "Anvil of Bogardan VIS",
+    "tcgplayerId": "5802",
+    "productId": "26781",
+    "productSku": "A230-VIS-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9435-300x400.jpg"
+  },
+  {
+    "name": "The One Ring LTR Hand Drawn Art #748 Foil",
+    "tcgplayerId": "517451",
+    "productId": "26779",
+    "productSku": "A189-LTR-HF-H",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9433-300x400.jpg"
+  },
+  {
+    "name": "The One Ring LTR #380 Extended Art Foil",
+    "tcgplayerId": "488276",
+    "productId": "26792",
+    "productSku": "A189-LTR-HF-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/12/IMG_0715-300x400.jpg"
+  },
+  {
+    "name": "Bruvac the Grandiloquent RVR Retro Foil",
+    "tcgplayerId": "530996",
+    "productId": "26791",
+    "productSku": "C186-RVR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9428-300x400.jpg"
+  },
+  {
+    "name": "Protean Hulk RVR Full Art Foil",
+    "tcgplayerId": "530984",
+    "productId": "26787",
+    "productSku": "C377-RVR-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9429-300x400.jpg"
+  },
+  {
+    "name": "Necrotic Sliver SLD Extended Art Foil",
+    "tcgplayerId": "475839",
+    "productId": "26785",
+    "productSku": "C376-SLD-HF-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9431-300x400.jpg"
+  },
+  {
+    "name": "Cloudstone Curio RVR Retro Foil",
+    "tcgplayerId": "531321",
+    "productId": "26783",
+    "productSku": "A137-RVR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9432-300x400.jpg"
+  },
+  {
+    "name": "Forest SLD Pixel Foil",
+    "tcgplayerId": "517805",
+    "productId": "26800",
+    "productSku": "L184-SLD-RF-P",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9420-300x400.jpg"
+  },
+  {
+    "name": "Island SLD Pixel Foil",
+    "tcgplayerId": "517793",
+    "productId": "26799",
+    "productSku": "L181-SLD-RF-P",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9421-300x400.jpg"
+  },
+  {
+    "name": "Swamp SLD Pixel Foil",
+    "tcgplayerId": "517796",
+    "productId": "26798",
+    "productSku": "L182-SLD-RF-P",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9422-300x400.jpg"
+  },
+  {
+    "name": "Plains SLD Pixel Foil",
+    "tcgplayerId": "517792",
+    "productId": "26797",
+    "productSku": "L180-SLD-RF-P",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9423-300x400.jpg"
+  },
+  {
+    "name": "Mountain SLD Pixel Foil",
+    "tcgplayerId": "517802",
+    "productId": "26796",
+    "productSku": "L183-SLD-RF-P",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9424-300x400.jpg"
+  },
+  {
+    "name": "Hallowed Fountain RVR Retro Foil",
+    "tcgplayerId": "517657",
+    "productId": "26808",
+    "productSku": "L104-RVR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9413-300x400.jpg"
+  },
+  {
+    "name": "Overgrown Tomb RVR Retro Foil",
+    "tcgplayerId": "517651",
+    "productId": "26807",
+    "productSku": "L105-RVR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9414-300x400.jpg"
+  },
+  {
+    "name": "Breeding Pool RVR Retro Foil",
+    "tcgplayerId": "517663",
+    "productId": "26806",
+    "productSku": "L102-RVR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9415-300x400.jpg"
+  },
+  {
+    "name": "Sacred Foundry RVR Retro Foil",
+    "tcgplayerId": "517646",
+    "productId": "26805",
+    "productSku": "L106-RVR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9416-300x400.jpg"
+  },
+  {
+    "name": "Steam Vents RVR Retro Foil",
+    "tcgplayerId": "517661",
+    "productId": "26804",
+    "productSku": "L107-RVR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9417-300x400.jpg"
+  },
+  {
+    "name": "Watery Grave RVR Retro Foil",
+    "tcgplayerId": "517665",
+    "productId": "26803",
+    "productSku": "L110-RVR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9412-300x400.jpg"
+  },
+  {
+    "name": "Temple Garden RVR Retro Foil",
+    "tcgplayerId": "517643",
+    "productId": "26802",
+    "productSku": "L109-RVR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9418-300x400.jpg"
+  },
+  {
+    "name": "Toxic Deluge CMM #523 Etched Foil",
+    "tcgplayerId": "504448",
+    "productId": "26816",
+    "productSku": "S103-CMM-HF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9404-300x400.jpg"
+  },
+  {
+    "name": "Ulamog, the Ceaseless Hunger CMM Etched Foil",
+    "tcgplayerId": "504157",
+    "productId": "26815",
+    "productSku": "C226-CMM-HF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9405-300x400.jpg"
+  },
+  {
+    "name": "Pearl Medallion CMM Etched Foil",
+    "tcgplayerId": "503365",
+    "productId": "26814",
+    "productSku": "A145-CMM-HF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9406-300x400.jpg"
+  },
+  {
+    "name": "Godless Shrine RVR Retro Foil",
+    "tcgplayerId": "517659",
+    "productId": "26812",
+    "productSku": "L103-RVR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9409-300x400.jpg"
+  },
+  {
+    "name": "Stomping Ground RVR Retro Foil",
+    "tcgplayerId": "517649",
+    "productId": "26811",
+    "productSku": "L108-RVR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9410-300x400.jpg"
+  },
+  {
+    "name": "Blood Crypt RVR Retro Foil",
+    "tcgplayerId": "517640",
+    "productId": "26809",
+    "productSku": "L101-RVR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9411-300x400.jpg"
+  },
+  {
+    "name": "Lotus Petal PRM Etched Foil",
+    "tcgplayerId": "512500",
+    "productId": "26824",
+    "productSku": "A112-PRM-HF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9398-300x400.jpg"
+  },
+  {
+    "name": "The Great Henge CMM #562 Etched Foil",
+    "tcgplayerId": "504637",
+    "productId": "26823",
+    "productSku": "A122-CMM-HF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9399-300x400.jpg"
+  },
+  {
+    "name": "Grand Abolisher CMM Etched Foil",
+    "tcgplayerId": "503580",
+    "productId": "26821",
+    "productSku": "C144-CMM-HF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9400-300x400.jpg"
+  },
+  {
+    "name": "Ranger-Captain of Eos H1R Etched Foil",
+    "tcgplayerId": "240141",
+    "productId": "26820",
+    "productSku": "C187-MH1-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9401-300x400.jpg"
+  },
+  {
+    "name": "Land Tax CMM #464 Etched Foil",
+    "tcgplayerId": "503417",
+    "productId": "26819",
+    "productSku": "E108-CMM-HF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9402-300x400.jpg"
+  },
+  {
+    "name": "Smothering Tithe CMM Etched Foil",
+    "tcgplayerId": "504579",
+    "productId": "26817",
+    "productSku": "E106-CMM-HF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9403-300x400.jpg"
+  },
+  {
+    "name": "Orzhov Signet SLD Etched",
+    "tcgplayerId": "242394",
+    "productId": "26832",
+    "productSku": "A237-SLD-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9393-300x400.jpg"
+  },
+  {
+    "name": "Izzet Signet SLD Etched",
+    "tcgplayerId": "242392",
+    "productId": "26831",
+    "productSku": "A236-SLD-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9388-300x400.jpg"
+  },
+  {
+    "name": "Gruul Signet SLD Etched",
+    "tcgplayerId": "242382",
+    "productId": "26830",
+    "productSku": "A235-SLD-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9397-300x400.jpg"
+  },
+  {
+    "name": "Golgari Signet SLD Etched",
+    "tcgplayerId": "242390",
+    "productId": "26829",
+    "productSku": "A234-SLD-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9389-300x400.jpg"
+  },
+  {
+    "name": "Dimir Signet SLD Etched",
+    "tcgplayerId": "242380",
+    "productId": "26827",
+    "productSku": "A233-SLD-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9391-300x400.jpg"
+  },
+  {
+    "name": "Boros Signet SLD Etched",
+    "tcgplayerId": "242388",
+    "productId": "26826",
+    "productSku": "A232-SLD-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9396-300x400.jpg"
+  },
+  {
+    "name": "Azorius Signet SLD Etched",
+    "tcgplayerId": "242378",
+    "productId": "26825",
+    "productSku": "A231-SLD-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9390-300x400.jpg"
+  },
+  {
+    "name": "Yavimaya, Cradle of Growth H1R Etched Foil",
+    "tcgplayerId": "240232",
+    "productId": "26843",
+    "productSku": "L178-H1R-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9353-300x400.jpg"
+  },
+  {
+    "name": "Dauthi Voidwalker H1R Etched Foil",
+    "tcgplayerId": "240243",
+    "productId": "26842",
+    "productSku": "C137-H1R-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9354-300x400.jpg"
+  },
+  {
+    "name": "Simic Signet SLD Etched",
+    "tcgplayerId": "242396",
+    "productId": "26835",
+    "productSku": "A240-SLD-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9394-300x400.jpg"
+  },
+  {
+    "name": "Selesnya Signet SLD Etched",
+    "tcgplayerId": "242386",
+    "productId": "26834",
+    "productSku": "A239-SLD-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9395-300x400.jpg"
+  },
+  {
+    "name": "Rakdos Signet SLD Etched",
+    "tcgplayerId": "242384",
+    "productId": "26833",
+    "productSku": "A238-SLD-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9392-300x400.jpg"
+  },
+  {
+    "name": "Arid Mesa H1R Etched Foil",
+    "tcgplayerId": "239424",
+    "productId": "26851",
+    "productSku": "L111-H1R-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9342-300x400.jpg"
+  },
+  {
+    "name": "Snow-Covered Swamp SLD Etched Foil",
+    "tcgplayerId": "259204",
+    "productId": "26848",
+    "productSku": "L182-SLD-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9350-300x400.jpg"
+  },
+  {
+    "name": "Snow-Covered Forest SLD Etched Foil",
+    "tcgplayerId": "259206",
+    "productId": "26847",
+    "productSku": "L184-SLD-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9349-300x400.jpg"
+  },
+  {
+    "name": "Snow-Covered Mountain SLD Etched Foil",
+    "tcgplayerId": "259205",
+    "productId": "26846",
+    "productSku": "L183-SLD-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9347-300x400.jpg"
+  },
+  {
+    "name": "Snow-Covered Plains SLD Etched Foil",
+    "tcgplayerId": "259202",
+    "productId": "26845",
+    "productSku": "L180-SLD-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9351-300x400.jpg"
+  },
+  {
+    "name": "Verdant Catacombs H1R Etched Foil",
+    "tcgplayerId": "239433",
+    "productId": "26855",
+    "productSku": "L115-H1R-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9343-300x400.jpg"
+  },
+  {
+    "name": "Marsh Flats H1R Etched Foil",
+    "tcgplayerId": "239427",
+    "productId": "26854",
+    "productSku": "L112-H1R-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9345-300x400.jpg"
+  },
+  {
+    "name": "Scalding Tarn H1R Etched Foil",
+    "tcgplayerId": "239431",
+    "productId": "26853",
+    "productSku": "L114-H1R-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9344-300x400.jpg"
+  },
+  {
+    "name": "Misty Rainforest H1R Etched Foil",
+    "tcgplayerId": "239428",
+    "productId": "26852",
+    "productSku": "L113-H1R-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9346-300x400.jpg"
+  },
+  {
+    "name": "Prismatic Vista H1R Etched Foil",
+    "tcgplayerId": "240310",
+    "productId": "26858",
+    "productSku": "L170-H1R-RF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9341-300x400.jpg"
+  },
+  {
+    "name": "The Dead Marshes LTC Surge Foil",
+    "tcgplayerId": "499395",
+    "productId": "26074",
+    "productSku": "L169-LTC-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9260-300x400.jpg"
+  },
+  {
+    "name": "Ancient Tomb LTC Surge Foil",
+    "tcgplayerId": "499376",
+    "productId": "26073",
+    "productSku": "L152-LTC-HF-SG",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9262-300x400.jpg"
   }
 ]
