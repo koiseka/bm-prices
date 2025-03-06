@@ -4403,11 +4403,11 @@
     "productImg": "https://bootlegmage.com/wp-content/uploads/2024/07/IMG_0147-300x400.jpg"
   },
   {
-    "name": "Kappa Canonneer MH3 #401 Foil",
+    "name": "Kappa Cannoneer MH3 Retro",
     "tcgplayerId": "548618",
-    "productId": "46322",
-    "productSku": "C430-MH3-RF",
-    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/07/IMG_0145-300x400.jpg"
+    "productId": "41815",
+    "productSku": "C430-MH3-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/06/IMG_9878-300x400.jpg"
   },
   {
     "name": "Grief H2R #7 Foil",
@@ -8847,5 +8847,1006 @@
     "productId": "7248",
     "productSku": "A156-SLD-RF-EF",
     "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9362-300x400.jpg"
+  },
+  {
+    "name": "The Wandering Emperor NEO Showcase Etched Foil",
+    "tcgplayerId": "263247",
+    "productId": "22083",
+    "productSku": "P107-NEO-HF-EF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9386-300x400.jpg"
+  },
+  {
+    "name": "Smothering Tithe WOT Alternate Art Foil",
+    "tcgplayerId": "509562",
+    "productId": "20683",
+    "productSku": "E106-WOT-HF-A",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8660-300x400.jpg"
+  },
+  {
+    "name": "Force of Negation 2X2 Full Art Foil",
+    "tcgplayerId": "276737",
+    "productId": "3029",
+    "productSku": "I103-2X2-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8627-300x400.jpg"
+  },
+  {
+    "name": "Urza’s Saga MH2 #259 Foil",
+    "tcgplayerId": "238619",
+    "productId": "14424",
+    "productSku": "L142-MH2-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/07/IMG_0218-300x400.jpg"
+  },
+  {
+    "name": "Everybody Lives! Extended Art Foil",
+    "tcgplayerId": "519079",
+    "productId": "20681",
+    "productSku": "I164-WHO-HF-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8668-300x400.jpg"
+  },
+  {
+    "name": "Omnath, Locus of Creation Full Art Promo Foil",
+    "tcgplayerId": "282475",
+    "productId": "20679",
+    "productSku": "C135-SCH-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8672-300x400.jpg"
+  },
+  {
+    "name": "Thalia and the Gitrog Monster MOM Promo Foil",
+    "tcgplayerId": "492060",
+    "productId": "20693",
+    "productSku": "C256-SCH-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8619-300x400.jpg"
+  },
+  {
+    "name": "Beseech the Mirror WOE Extended Art Foil",
+    "tcgplayerId": "512516",
+    "productId": "20689",
+    "productSku": "S166-WOE-HF-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8625-300x400.jpg"
+  },
+  {
+    "name": "Fatal Push SLP Foil",
+    "tcgplayerId": "484511",
+    "productId": "20699",
+    "productSku": "I163-SLD-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8656-300x400.jpg"
+  },
+  {
+    "name": "Urza’s Saga MH2 Sketch #380 Foil",
+    "tcgplayerId": "239179",
+    "productId": "10613",
+    "productSku": "L142-MH2-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/08/IMG_0279-300x400.jpg"
+  },
+  {
+    "name": "Underground Sea Unlimited",
+    "tcgplayerId": "9240",
+    "productId": "20658",
+    "productSku": "L122-2ED-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8753-300x400.jpg"
+  },
+  {
+    "name": "Taiga Unlimited",
+    "tcgplayerId": "9223",
+    "productId": "20657",
+    "productSku": "L124-2ED-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8755-300x400.jpg"
+  },
+  {
+    "name": "Savannah Unlimited",
+    "tcgplayerId": "9192",
+    "productId": "20666",
+    "productSku": "L125-2ED-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8738-300x400.jpg"
+  },
+  {
+    "name": "Scrubland Unlimited",
+    "tcgplayerId": "9196",
+    "productId": "20665",
+    "productSku": "L126-2ED-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8736-300x400.jpg"
+  },
+  {
+    "name": "Bayou Unlimited",
+    "tcgplayerId": "8984",
+    "productId": "20664",
+    "productSku": "L128-2ED-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8740-300x400.jpg"
+  },
+  {
+    "name": "Plateau Unlimited",
+    "tcgplayerId": "9169",
+    "productId": "20663",
+    "productSku": "L129-2ED-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8742-2-300x400.jpg"
+  },
+  {
+    "name": "Tundra Unlimited",
+    "tcgplayerId": "9236",
+    "productId": "20662",
+    "productSku": "L121-2ED-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8744-300x400.jpg"
+  },
+  {
+    "name": "Badlands Unlimited",
+    "tcgplayerId": "8981",
+    "productId": "20661",
+    "productSku": "L123-2ED-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8746-300x400.jpg"
+  },
+  {
+    "name": "Tropical Island Unlimited",
+    "tcgplayerId": "9234",
+    "productId": "20660",
+    "productSku": "L130-2ED-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8748-300x400.jpg"
+  },
+  {
+    "name": "Volcanic Island Unlimited",
+    "tcgplayerId": "9248",
+    "productId": "20659",
+    "productSku": "L127-2ED-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8751-300x400.jpg"
+  },
+  {
+    "name": "Time Warp Judge 2004 Foil",
+    "tcgplayerId": "38276",
+    "productId": "20677",
+    "productSku": "S105-G04-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8678-300x400.jpg"
+  },
+  {
+    "name": "Food Chain MMQ Foil",
+    "tcgplayerId": "6529",
+    "productId": "20675",
+    "productSku": "E115-MMQ-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8680-300x400.jpg"
+  },
+  {
+    "name": "Dauthi Voidwalker MH2 Old Frame Foil",
+    "tcgplayerId": "240242",
+    "productId": "20674",
+    "productSku": "C137-MH2-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/01/IMG_9019-300x400.jpg"
+  },
+  {
+    "name": "Time Warp STA Foil",
+    "tcgplayerId": "235148",
+    "productId": "20673",
+    "productSku": "S105-STA-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8688-300x400.jpg"
+  },
+  {
+    "name": "Karn, the Great Creator WAR JP",
+    "tcgplayerId": "188998",
+    "productId": "20671",
+    "productSku": "P106-WAR-HR-J",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8697-300x400.jpg"
+  },
+  {
+    "name": "Cabal Coffers TOR",
+    "tcgplayerId": "9627",
+    "productId": "20669",
+    "productSku": "L179-TOR-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8712-300x400.jpg"
+  },
+  {
+    "name": "The First Sliver SLD Foil",
+    "tcgplayerId": "514501",
+    "productId": "20684",
+    "productSku": "C124-SLD-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8647-300x400.jpg"
+  },
+  {
+    "name": "Dark Ritual MMQ Foil",
+    "tcgplayerId": "6495",
+    "productId": "20682",
+    "productSku": "I150-MMQ-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8662-300x400.jpg"
+  },
+  {
+    "name": "Blind Obedience SLD Foil",
+    "tcgplayerId": "450583",
+    "productId": "20680",
+    "productSku": "E170-SLD-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9408-300x400.jpg"
+  },
+  {
+    "name": "Cover of Darkness ONS Foil",
+    "tcgplayerId": "10539",
+    "productId": "20678",
+    "productSku": "E169-ONS-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8674-300x400.jpg"
+  },
+  {
+    "name": "Unmask MMQ Foil",
+    "tcgplayerId": "6750",
+    "productId": "20697",
+    "productSku": "I165-MMQ-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8666-300x400.jpg"
+  },
+  {
+    "name": "Survival of the Fittest Judge Foil",
+    "tcgplayerId": "38273",
+    "productId": "20694",
+    "productSku": "E121-G09-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8613-300x400.jpg"
+  },
+  {
+    "name": "Yavimaya, Cradle of Growth MH2 Retro Foil",
+    "tcgplayerId": "240231",
+    "productId": "20692",
+    "productSku": "L178-MH2-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8621-300x400.jpg"
+  },
+  {
+    "name": "Karn, the Great Creator WAR JP Foil",
+    "tcgplayerId": "188998",
+    "productId": "20687",
+    "productSku": "P106-WAR-HF-J",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8633-300x400.jpg"
+  },
+  {
+    "name": "Opposition Agent CMR Extended Art Foil",
+    "tcgplayerId": "226313",
+    "productId": "20686",
+    "productSku": "C288-CMR-HF-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8635-2-300x400.jpg"
+  },
+  {
+    "name": "Chain of Vapor ONS Foil",
+    "tcgplayerId": "10327",
+    "productId": "20685",
+    "productSku": "I124-ONS-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8637-300x400.jpg"
+  },
+  {
+    "name": "Mox Opal 2XM Full Art #362 Foil",
+    "tcgplayerId": "218603",
+    "productId": "20705",
+    "productSku": "A114-2XM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/12/IMG_0725-300x400.jpg"
+  },
+  {
+    "name": "Nexus of Fate M19 Foil",
+    "tcgplayerId": "169146",
+    "productId": "20701",
+    "productSku": "I166-M19-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8649-300x400.jpg"
+  },
+  {
+    "name": "Snuff Out MMQ Foil",
+    "tcgplayerId": "6703",
+    "productId": "20698",
+    "productSku": "I147-MMQ-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8664-300x400.jpg"
+  },
+  {
+    "name": "The One Ring LTR Hand Drawn Art",
+    "tcgplayerId": "517451",
+    "productId": "20083",
+    "productSku": "A189-LTR-HR-H",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8493-300x400.jpg"
+  },
+  {
+    "name": "Mana Crypt SPG",
+    "tcgplayerId": "517533",
+    "productId": "20081",
+    "productSku": "A109-SPG-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8499-300x400.jpg"
+  },
+  {
+    "name": "Sacred Foundry RVR Full Art",
+    "tcgplayerId": "517690",
+    "productId": "20078",
+    "productSku": "L106-RVR-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8517-300x400.jpg"
+  },
+  {
+    "name": "Yavimaya, Cradle of Growth MH2 Extended Art #480",
+    "tcgplayerId": "240233",
+    "productId": "20076",
+    "productSku": "L178-MH2-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/09/IMG_0349-2-300x400.jpg"
+  },
+  {
+    "name": "Yavimaya, Cradle of Growth MH2 #261",
+    "tcgplayerId": "240045",
+    "productId": "20075",
+    "productSku": "L178-MH2-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/09/IMG_0364-2-300x400.jpg"
+  },
+  {
+    "name": "The Tabernacle at Pendrell Vale Italian LEG",
+    "tcgplayerId": "",
+    "productId": "20074",
+    "productSku": "L153-LEG-RR-I",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8523-300x400.jpg"
+  },
+  {
+    "name": "Sakashima the Impostor SOK",
+    "tcgplayerId": "12524",
+    "productId": "20073",
+    "productSku": "C277-SOK-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8525-300x400.jpg"
+  },
+  {
+    "name": "Sylvan Library EMA",
+    "tcgplayerId": "118417",
+    "productId": "20072",
+    "productSku": "E102-EMA-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8531-300x400.jpg"
+  },
+  {
+    "name": "Lord of Atlantis SPG #1",
+    "tcgplayerId": "517534",
+    "productId": "20071",
+    "productSku": "C348-SPG-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8533-300x400.jpg"
+  },
+  {
+    "name": "Sliver Hivelord M15",
+    "tcgplayerId": "91188",
+    "productId": "20070",
+    "productSku": "C347-M15-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8539-300x400.jpg"
+  },
+  {
+    "name": "Full Text Forest SLD",
+    "tcgplayerId": "237591",
+    "productId": "20086",
+    "productSku": "L184-SLD-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8483-300x400.jpg"
+  },
+  {
+    "name": "Full Text Swamp SLD",
+    "tcgplayerId": "237589",
+    "productId": "20085",
+    "productSku": "L182-SLD-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8489-300x400.jpg"
+  },
+  {
+    "name": "Full Text Island SLD",
+    "tcgplayerId": "237588",
+    "productId": "20084",
+    "productSku": "L181-SLD-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8487-300x400.jpg"
+  },
+  {
+    "name": "The Immortal Sun RIX",
+    "tcgplayerId": "155586",
+    "productId": "20082",
+    "productSku": "A219-RIX-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8497-300x400.jpg"
+  },
+  {
+    "name": "Blood Crypt RVR Full Art",
+    "tcgplayerId": "517694",
+    "productId": "20080",
+    "productSku": "L101-RVR-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8513-300x400.jpg"
+  },
+  {
+    "name": "Stomping Ground RVR Full Art",
+    "tcgplayerId": "517692",
+    "productId": "20079",
+    "productSku": "L108-RVR-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8515-300x400.jpg"
+  },
+  {
+    "name": "Steam Vents RVR Full Art",
+    "tcgplayerId": "517689",
+    "productId": "20077",
+    "productSku": "L107-RVR-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8519-300x400.jpg"
+  },
+  {
+    "name": "Sword of Truth and Justice MH1",
+    "tcgplayerId": "191050",
+    "productId": "20090",
+    "productSku": "A220-MH1-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8495-300x400.jpg"
+  },
+  {
+    "name": "Morophon, the Boundless MH1",
+    "tcgplayerId": "190720",
+    "productId": "20089",
+    "productSku": "C270-MH1-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8529-300x400.jpg"
+  },
+  {
+    "name": "Full Text Plains SLD",
+    "tcgplayerId": "237587",
+    "productId": "20088",
+    "productSku": "L180-SLD-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8491-300x400.jpg"
+  },
+  {
+    "name": "Full Text Mountain SLD",
+    "tcgplayerId": "237590",
+    "productId": "20087",
+    "productSku": "L183-SLD-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8485-300x400.jpg"
+  },
+  {
+    "name": "Strip Mine ZNE",
+    "tcgplayerId": "222001",
+    "productId": "8869",
+    "productSku": "L219-ZNE-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8371-300x400.jpg"
+  },
+  {
+    "name": "Wasteland ZNE",
+    "tcgplayerId": "221819",
+    "productId": "8868",
+    "productSku": "L147-ZNE-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8373-300x400.jpg"
+  },
+  {
+    "name": "Ancient Tomb ZNE",
+    "tcgplayerId": "222003",
+    "productId": "583",
+    "productSku": "L152-ZNE-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8375-300x400.jpg"
+  },
+  {
+    "name": "Valakut, the Molten Pinnacle ZNE",
+    "tcgplayerId": "222002",
+    "productId": "19598",
+    "productSku": "L145-ZNE-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8401-300x400.jpg"
+  },
+  {
+    "name": "Cavern of Souls ZNE",
+    "tcgplayerId": "222006",
+    "productId": "19597",
+    "productSku": "L144-ZNE-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8403-300x400.jpg"
+  },
+  {
+    "name": "Prismatic Vista ZNE",
+    "tcgplayerId": "221818",
+    "productId": "19596",
+    "productSku": "L170-ZNE-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8411-300x400.jpg"
+  },
+  {
+    "name": "Marsh Flats ZNE",
+    "tcgplayerId": "221811",
+    "productId": "720",
+    "productSku": "L112-ZNE-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8377-300x400.jpg"
+  },
+  {
+    "name": "Polluted Delta ZNE",
+    "tcgplayerId": "221807",
+    "productId": "716",
+    "productSku": "L118-ZNE-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8379-300x400.jpg"
+  },
+  {
+    "name": "Scalding Tarn ZNE",
+    "tcgplayerId": "221812",
+    "productId": "714",
+    "productSku": "L114-ZNE-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8381-300x400.jpg"
+  },
+  {
+    "name": "Verdant Catacombs ZNE",
+    "tcgplayerId": "221813",
+    "productId": "712",
+    "productSku": "L115-ZNE-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8383-300x400.jpg"
+  },
+  {
+    "name": "Flooded Strand ZNE",
+    "tcgplayerId": "221806",
+    "productId": "722",
+    "productSku": "L117-ZNE-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8387-300x400.jpg"
+  },
+  {
+    "name": "Arid Mesa ZNE",
+    "tcgplayerId": "221814",
+    "productId": "726",
+    "productSku": "L111-ZNE-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8405-300x400.jpg"
+  },
+  {
+    "name": "Windswept Heath ZNE",
+    "tcgplayerId": "221810",
+    "productId": "710",
+    "productSku": "L119-ZNE-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8407-300x400.jpg"
+  },
+  {
+    "name": "Bloodstained Mire ZNE",
+    "tcgplayerId": "221808",
+    "productId": "724",
+    "productSku": "L116-ZNE-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8409-300x400.jpg"
+  },
+  {
+    "name": "Misty Rainforest ZNE",
+    "tcgplayerId": "221815",
+    "productId": "718",
+    "productSku": "L113-ZNE-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8413-300x400.jpg"
+  },
+  {
+    "name": "Wooded Foothills ZNE",
+    "tcgplayerId": "221809",
+    "productId": "708",
+    "productSku": "L120-ZNE-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8415-300x400.jpg"
+  },
+  {
+    "name": "Tundra Revised",
+    "tcgplayerId": "1597",
+    "productId": "686",
+    "productSku": "L121-3ED-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9511-300x400.jpg"
+  },
+  {
+    "name": "Tropical Island Revised",
+    "tcgplayerId": "1595",
+    "productId": "670",
+    "productSku": "L130-3ED-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/02/IMG_9509-300x400.jpg"
+  },
+  {
+    "name": "Gaea’s Cradle USG",
+    "tcgplayerId": "6883",
+    "productId": "589",
+    "productSku": "L149-USG-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/07/IMG_0103-300x400.jpg"
+  },
+  {
+    "name": "The First Sliver SLD",
+    "tcgplayerId": "514501",
+    "productId": "18467",
+    "productSku": "C124-SLD-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8195-300x400.jpg"
+  },
+  {
+    "name": "Agatha’s Soul Cauldron WOE Extended Art",
+    "tcgplayerId": "512618",
+    "productId": "17130",
+    "productSku": "A218-WOE-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_8021-300x400.jpg"
+  },
+  {
+    "name": "Rhystic Study WOT Alternate Art JP",
+    "tcgplayerId": "",
+    "productId": "18434",
+    "productSku": "E107-WOT-HR-A-J",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8252-300x400.jpg"
+  },
+  {
+    "name": "Moonshaker Cavalry WOE Extended Art",
+    "tcgplayerId": "509533",
+    "productId": "18432",
+    "productSku": "C345-WOE-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8256-300x400.jpg"
+  },
+  {
+    "name": "Smothering Tithe WOT Alternate Art JP",
+    "tcgplayerId": "",
+    "productId": "18452",
+    "productSku": "E106-WOT-HR-A-J",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8217-300x400.jpg"
+  },
+  {
+    "name": "Beseech the Mirror WOE",
+    "tcgplayerId": "512160",
+    "productId": "18451",
+    "productSku": "S166-WOE-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8219-300x400.jpg"
+  },
+  {
+    "name": "Forth, Eorlingas! LTC",
+    "tcgplayerId": "499782",
+    "productId": "18470",
+    "productSku": "S167-LTC-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8189-300x400.jpg"
+  },
+  {
+    "name": "Doubling Season WOT Alternate Art JP",
+    "tcgplayerId": "",
+    "productId": "18421",
+    "productSku": "E105-WOT-HR-A-J",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8276-300x400.jpg"
+  },
+  {
+    "name": "Spara’s Headquarters SNC",
+    "tcgplayerId": "265348",
+    "productId": "18439",
+    "productSku": "L133-SNC-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8234-300x400.jpg"
+  },
+  {
+    "name": "Raffine’s Tower SNC",
+    "tcgplayerId": "265349",
+    "productId": "18438",
+    "productSku": "L132-SNC-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8230-300x400.jpg"
+  },
+  {
+    "name": "Jetmir’s Garden SNC",
+    "tcgplayerId": "265346",
+    "productId": "18435",
+    "productSku": "L131-SNC-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8240-300x400.jpg"
+  },
+  {
+    "name": "Greater Auramancy WOT Alternate Art JP",
+    "tcgplayerId": "",
+    "productId": "18433",
+    "productSku": "E168-WOT-HR-A-J",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8254-300x400.jpg"
+  },
+  {
+    "name": "Moonshaker Cavalry WOE",
+    "tcgplayerId": "509485",
+    "productId": "18428",
+    "productSku": "C345-WOE-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8258-300x400.jpg"
+  },
+  {
+    "name": "Cover of Darkness ONS",
+    "tcgplayerId": "10539",
+    "productId": "18449",
+    "productSku": "E169-ONS-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8226-300x400.jpg"
+  },
+  {
+    "name": "Exploration 2XM Full Art Foil",
+    "tcgplayerId": "218388",
+    "productId": "18448",
+    "productSku": "E127-2XM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8228-300x400.jpg"
+  },
+  {
+    "name": "Ketria Triome IKO",
+    "tcgplayerId": "212697",
+    "productId": "18446",
+    "productSku": "L137-IKO-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8236-300x400.jpg"
+  },
+  {
+    "name": "Indatha Triome IKO",
+    "tcgplayerId": "212689",
+    "productId": "18445",
+    "productSku": "L136-IKO-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8244-300x400.jpg"
+  },
+  {
+    "name": "Zagoth Triome IKO",
+    "tcgplayerId": "212691",
+    "productId": "18444",
+    "productSku": "L140-IKO-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8242-300x400.jpg"
+  },
+  {
+    "name": "Savai Triome IKO",
+    "tcgplayerId": "212693",
+    "productId": "18443",
+    "productSku": "L138-IKO-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8232-300x400.jpg"
+  },
+  {
+    "name": "Ziatora’s Proving Ground SNC",
+    "tcgplayerId": "265351",
+    "productId": "18441",
+    "productSku": "L135-SNC-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8246-300x400.jpg"
+  },
+  {
+    "name": "Xander’s Lounge SNC",
+    "tcgplayerId": "265350",
+    "productId": "18440",
+    "productSku": "L134-SNC-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8248-300x400.jpg"
+  },
+  {
+    "name": "Bloom Tender SLD",
+    "tcgplayerId": "242375",
+    "productId": "18462",
+    "productSku": "C241-SLD-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8203-300x400.jpg"
+  },
+  {
+    "name": "Verdant Catacombs MH2",
+    "tcgplayerId": "238611",
+    "productId": "18457",
+    "productSku": "L115-MH2-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8209-300x400.jpg"
+  },
+  {
+    "name": "Misty Rainforest MH2",
+    "tcgplayerId": "238609",
+    "productId": "18455",
+    "productSku": "L113-MH2-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8207-300x400.jpg"
+  },
+  {
+    "name": "Marsh Flats MH2",
+    "tcgplayerId": "238608",
+    "productId": "18454",
+    "productSku": "L112-MH2-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8215-300x400.jpg"
+  },
+  {
+    "name": "Arid Mesa MH2",
+    "tcgplayerId": "238607",
+    "productId": "18453",
+    "productSku": "L111-MH2-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8213-300x400.jpg"
+  },
+  {
+    "name": "Fatal Push 2XM Full Art",
+    "tcgplayerId": "218831",
+    "productId": "18472",
+    "productSku": "I163-2XM-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8181-300x400.jpg"
+  },
+  {
+    "name": "City of Shadows DRK",
+    "tcgplayerId": "3494",
+    "productId": "18471",
+    "productSku": "L252-DRK-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8185-300x400.jpg"
+  },
+  {
+    "name": "Syr Konrad, the Grim SLD",
+    "tcgplayerId": "501884",
+    "productId": "18469",
+    "productSku": "C346-SLD-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8191-300x400.jpg"
+  },
+  {
+    "name": "Phyrexian Tower SLD #208",
+    "tcgplayerId": "259260",
+    "productId": "18468",
+    "productSku": "L199-SLD-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/06/IMG_9888-300x400.jpg"
+  },
+  {
+    "name": "Eye of Ugin MM2",
+    "tcgplayerId": "98497",
+    "productId": "18464",
+    "productSku": "L207-MM2-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8199-300x400.jpg"
+  },
+  {
+    "name": "Greymond, Avacyn’s Stalwart SLD",
+    "tcgplayerId": "513295",
+    "productId": "18463",
+    "productSku": "C297-SLD-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8201-300x400.jpg"
+  },
+  {
+    "name": "Urborg, Tomb of Yawgmoth UMA #254",
+    "tcgplayerId": "179536",
+    "productId": "111",
+    "productSku": "L169-UMA-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/09/IMG_0419-300x400.jpg"
+  },
+  {
+    "name": "Scalding Tarn MH2",
+    "tcgplayerId": "238610",
+    "productId": "11302",
+    "productSku": "L114-MH2-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/10/IMG_8211-300x400.jpg"
+  },
+  {
+    "name": "Raugrin Triome IKO",
+    "tcgplayerId": "212695",
+    "productId": "19593",
+    "productSku": "L139-IKO-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/11/IMG_8367-300x400.jpg"
+  },
+  {
+    "name": "Omniscience WOT Alternate Art",
+    "tcgplayerId": "512692",
+    "productId": "17100",
+    "productSku": "E123-WOT-HR-A",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_8025-300x400.jpg"
+  },
+  {
+    "name": "Smothering Tithe WOT Alternate Art",
+    "tcgplayerId": "509562",
+    "productId": "17114",
+    "productSku": "E106-WOT-HR-A",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7978-300x400.jpg"
+  },
+  {
+    "name": "Bitterblossom WOT Alternate Art",
+    "tcgplayerId": "512498",
+    "productId": "17110",
+    "productSku": "E151-WOT-HR-A",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7968-300x400.jpg"
+  },
+  {
+    "name": "Beseech the Mirror WOE Extended Art",
+    "tcgplayerId": "512516",
+    "productId": "17101",
+    "productSku": "S166-WOE-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7942-300x400.jpg"
+  },
+  {
+    "name": "Parallel Lives WOT Alternate Art",
+    "tcgplayerId": "512615",
+    "productId": "17124",
+    "productSku": "E117-WOT-HR-A",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_8011-300x400.jpg"
+  },
+  {
+    "name": "Greater Auramancy WOT Alternate Art",
+    "tcgplayerId": "509558",
+    "productId": "17127",
+    "productSku": "E168-WOT-HR-A",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_8017-300x400.jpg"
+  },
+  {
+    "name": "Rhystic Study WOT Alternate Art",
+    "tcgplayerId": "509566",
+    "productId": "17126",
+    "productSku": "E107-WOT-HR-A",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_8015-300x400.jpg"
+  },
+  {
+    "name": "Thornbite Staff MOR",
+    "tcgplayerId": "18079",
+    "productId": "17107",
+    "productSku": "A217-MOR-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7962-300x400.jpg"
+  },
+  {
+    "name": "Displacer Kitten CLB #63  Foil",
+    "tcgplayerId": "272901",
+    "productId": "17106",
+    "productSku": "C173-CLB-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/01/IMG_0918-300x400.jpg"
+  },
+  {
+    "name": "Mana Drain CMR Extended Art Foil",
+    "tcgplayerId": "227009",
+    "productId": "17104",
+    "productSku": "I108-2X2-HF-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7950-300x400.jpg"
+  },
+  {
+    "name": "Doubling Season WOT #52",
+    "tcgplayerId": "509529",
+    "productId": "17103",
+    "productSku": "E105-WOT-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7948-300x400.jpg"
+  },
+  {
+    "name": "Karn, the Great Creator WAR Foil",
+    "tcgplayerId": "188386",
+    "productId": "17102",
+    "productSku": "P106-WAR-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7946-300x400.jpg"
+  },
+  {
+    "name": "Temporal Trespass FRF Foil",
+    "tcgplayerId": "95249",
+    "productId": "17115",
+    "productSku": "S131-FRF-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7980-300x400.jpg"
+  },
+  {
+    "name": "Calix, Guided by Fate MAT",
+    "tcgplayerId": "495598",
+    "productId": "17111",
+    "productSku": "C344-MAT-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7970-300x400.jpg"
+  },
+  {
+    "name": "Phyrexian Altar INV Foil",
+    "tcgplayerId": "7580",
+    "productId": "17109",
+    "productSku": "A130-INV-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7966-300x400.jpg"
+  },
+  {
+    "name": "Maralen of the Mornsong MOR",
+    "tcgplayerId": "18012",
+    "productId": "17108",
+    "productSku": "C343-MOR-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7964-300x400.jpg"
+  },
+  {
+    "name": "Rhystic Study WOT",
+    "tcgplayerId": "509518",
+    "productId": "17125",
+    "productSku": "E107-WOT-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_8013-300x400.jpg"
+  },
+  {
+    "name": "Delighted Halfling LTR Extended Art",
+    "tcgplayerId": "498618",
+    "productId": "17123",
+    "productSku": "C294-LTR-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_8007-300x400.jpg"
+  },
+  {
+    "name": "Commander’s Plate SLD Foil",
+    "tcgplayerId": "511871",
+    "productId": "17121",
+    "productSku": "A190-SLD-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7998-300x400.jpg"
+  },
+  {
+    "name": "Mana Crypt 2XM Full Art #361 Foil",
+    "tcgplayerId": "214836",
+    "productId": "17120",
+    "productSku": "A109-2XM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/08/IMG_0257-300x400.jpg"
+  },
+  {
+    "name": "Agatha’s Soul Cauldron WOE Extended Art Foil",
+    "tcgplayerId": "512618",
+    "productId": "17119",
+    "productSku": "A218-WOE-HF-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7994-300x400.jpg"
+  },
+  {
+    "name": "Fury MH2 Full Art Foil",
+    "tcgplayerId": "240328",
+    "productId": "17118",
+    "productSku": "C105-MH2-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7990-300x400.jpg"
+  },
+  {
+    "name": "Archangel of Thune SLD Foil",
+    "tcgplayerId": "511869",
+    "productId": "17117",
+    "productSku": "C139-SLD-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7986-300x400.jpg"
+  },
+  {
+    "name": "Calix, Guided by Fate MAT Extended Art",
+    "tcgplayerId": "495699",
+    "productId": "17132",
+    "productSku": "C344-MAT-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_8023-300x400.jpg"
+  },
+  {
+    "name": "Metalworker UDS Foil",
+    "tcgplayerId": "6209",
+    "productId": "17129",
+    "productSku": "C157-UDS-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_8019-300x400.jpg"
+  },
+  {
+    "name": "Mox Diamond V10 Foil",
+    "tcgplayerId": "36765",
+    "productId": "7858",
+    "productSku": "A117-V10-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/05/IMG_9813-300x400.jpg"
+  },
+  {
+    "name": "Orcish Bowmasters LTR Full Art Foil",
+    "tcgplayerId": "498425",
+    "productId": "13626",
+    "productSku": "C303-LTR-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7791-300x400.jpg"
+  },
+  {
+    "name": "Demonic Tutor CMM Full Art Foil",
+    "tcgplayerId": "504181",
+    "productId": "16439",
+    "productSku": "S108-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7783-300x400.jpg"
+  },
+  {
+    "name": "Champion’s Helm MPS Foil",
+    "tcgplayerId": "122845",
+    "productId": "16395",
+    "productSku": "A204-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7680-300x400.jpg"
   }
 ]
