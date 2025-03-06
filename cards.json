@@ -9848,5 +9848,677 @@
     "productId": "16395",
     "productSku": "A204-MPS-HF",
     "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7680-300x400.jpg"
+  },
+  {
+    "name": "Extraplanar Lens MPS Foil",
+    "tcgplayerId": "126286",
+    "productId": "16394",
+    "productSku": "A202-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7678-300x400.jpg"
+  },
+  {
+    "name": "Chalice of the Void MPS Foil",
+    "tcgplayerId": "126281",
+    "productId": "16393",
+    "productSku": "A107-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7676-300x400.jpg"
+  },
+  {
+    "name": "Mind’s Eye MPS Foil",
+    "tcgplayerId": "122854",
+    "productId": "16392",
+    "productSku": "A206-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7674-300x400.jpg"
+  },
+  {
+    "name": "Black Vise MPS Foil",
+    "tcgplayerId": "126280",
+    "productId": "16391",
+    "productSku": "A205-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7672-300x400.jpg"
+  },
+  {
+    "name": "Grindstone MPS Foil",
+    "tcgplayerId": "126287",
+    "productId": "16403",
+    "productSku": "A132-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7700-300x400.jpg"
+  },
+  {
+    "name": "Pithing Needle MPS Foil",
+    "tcgplayerId": "126292",
+    "productId": "16401",
+    "productSku": "A208-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7694-300x400.jpg"
+  },
+  {
+    "name": "Lightning Greaves MPS Foil",
+    "tcgplayerId": "122851",
+    "productId": "16400",
+    "productSku": "A121-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7692-300x400.jpg"
+  },
+  {
+    "name": "Scroll Rack MPS Foil",
+    "tcgplayerId": "122859",
+    "productId": "16399",
+    "productSku": "A125-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7690-300x400.jpg"
+  },
+  {
+    "name": "Sculpting Steel MPS Foil",
+    "tcgplayerId": "122860",
+    "productId": "16398",
+    "productSku": "A207-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7686-300x400.jpg"
+  },
+  {
+    "name": "Solemn Simulacrum MPS Foil",
+    "tcgplayerId": "122861",
+    "productId": "16397",
+    "productSku": "C159-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7684-300x400.jpg"
+  },
+  {
+    "name": "Mana Vault MPS Foil",
+    "tcgplayerId": "122853",
+    "productId": "16396",
+    "productSku": "A128-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7682-300x400.jpg"
+  },
+  {
+    "name": "Ornithopter MPS Foil",
+    "tcgplayerId": "126290",
+    "productId": "16409",
+    "productSku": "C336-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7712-300x400.jpg"
+  },
+  {
+    "name": "Platinum Angel MPS Foil",
+    "tcgplayerId": "126291",
+    "productId": "16408",
+    "productSku": "C335-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7710-300x400.jpg"
+  },
+  {
+    "name": "Torrential Gearhulk MPS Foil",
+    "tcgplayerId": "122868",
+    "productId": "16407",
+    "productSku": "C334-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7708-300x400.jpg"
+  },
+  {
+    "name": "Sword of War and Peace MPS Foil",
+    "tcgplayerId": "126297",
+    "productId": "16406",
+    "productSku": "A180-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7706-300x400.jpg"
+  },
+  {
+    "name": "Noxious Gearhulk MPS Foil",
+    "tcgplayerId": "122856",
+    "productId": "16405",
+    "productSku": "C333-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7704-300x400.jpg"
+  },
+  {
+    "name": "Cataclysmic Gearhulk MPS Foil",
+    "tcgplayerId": "122844",
+    "productId": "16404",
+    "productSku": "C332-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7702-300x400.jpg"
+  },
+  {
+    "name": "Trinisphere MPS Foil",
+    "tcgplayerId": "126298",
+    "productId": "16418",
+    "productSku": "A115-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7731-300x400.jpg"
+  },
+  {
+    "name": "Arcbound Ravager MPS Foil",
+    "tcgplayerId": "126279",
+    "productId": "16416",
+    "productSku": "C202-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7728-300x400.jpg"
+  },
+  {
+    "name": "Verdurous Gearhulk MPS Foil",
+    "tcgplayerId": "122772",
+    "productId": "16415",
+    "productSku": "C337-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7726-300x400.jpg"
+  },
+  {
+    "name": "Planar Bridge MPS Foil",
+    "tcgplayerId": "126307",
+    "productId": "16413",
+    "productSku": "A210-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7720-300x400.jpg"
+  },
+  {
+    "name": "Static Orb MPS Foil",
+    "tcgplayerId": "122863",
+    "productId": "16412",
+    "productSku": "A151-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7718-300x400.jpg"
+  },
+  {
+    "name": "Oblivion Stone MPS Foil",
+    "tcgplayerId": "126289",
+    "productId": "16411",
+    "productSku": "A209-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7716-300x400.jpg"
+  },
+  {
+    "name": "Ensnaring Bridge MPS Foil",
+    "tcgplayerId": "126285",
+    "productId": "16410",
+    "productSku": "A174-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7714-300x400.jpg"
+  },
+  {
+    "name": "Combustible Gearhulk MPS Foil",
+    "tcgplayerId": "122849",
+    "productId": "16425",
+    "productSku": "C339-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7749-300x400.jpg"
+  },
+  {
+    "name": "Gauntlet of Power MPS Foil",
+    "tcgplayerId": "122769",
+    "productId": "16424",
+    "productSku": "A213-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7747-300x400.jpg"
+  },
+  {
+    "name": "Chrome Mox MPS Foil",
+    "tcgplayerId": "122847",
+    "productId": "16423",
+    "productSku": "A113-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7745-300x400.jpg"
+  },
+  {
+    "name": "Painter’s Servant MPS Foil",
+    "tcgplayerId": "122857",
+    "productId": "16422",
+    "productSku": "C122-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7743-300x400.jpg"
+  },
+  {
+    "name": "Rings of Brighthearth MPS Foil",
+    "tcgplayerId": "122858",
+    "productId": "16421",
+    "productSku": "A212-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7739-300x400.jpg"
+  },
+  {
+    "name": "Hangarback Walker MPS Foil",
+    "tcgplayerId": "122770",
+    "productId": "16420",
+    "productSku": "C338-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7735-300x400.jpg"
+  },
+  {
+    "name": "Paradox Engine MPS Foil",
+    "tcgplayerId": "126306",
+    "productId": "16419",
+    "productSku": "A211-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7733-300x400.jpg"
+  },
+  {
+    "name": "Engineered Explosives MPS Foil",
+    "tcgplayerId": "126284",
+    "productId": "16433",
+    "productSku": "A148-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7769-300x400.jpg"
+  },
+  {
+    "name": "Wurmcoil Engine MPS Foil",
+    "tcgplayerId": "126300",
+    "productId": "16432",
+    "productSku": "C184-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7767-300x400.jpg"
+  },
+  {
+    "name": "Sundering Titan MPS Foil",
+    "tcgplayerId": "126295",
+    "productId": "16431",
+    "productSku": "C342-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7763-300x400.jpg"
+  },
+  {
+    "name": "Duplicant MPS Foil",
+    "tcgplayerId": "126283",
+    "productId": "16430",
+    "productSku": "C341-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7761-300x400.jpg"
+  },
+  {
+    "name": "Defense Grid MPS Foil",
+    "tcgplayerId": "126282",
+    "productId": "16429",
+    "productSku": "A215-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7759-300x400.jpg"
+  },
+  {
+    "name": "Steel Overseer MPS Foil",
+    "tcgplayerId": "122864",
+    "productId": "16428",
+    "productSku": "C340-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7757-300x400.jpg"
+  },
+  {
+    "name": "Sword of Light and Shadow MPS Foil",
+    "tcgplayerId": "122867",
+    "productId": "16427",
+    "productSku": "A179-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7755-300x400.jpg"
+  },
+  {
+    "name": "Staff of Domination MPS Foil",
+    "tcgplayerId": "126294",
+    "productId": "16426",
+    "productSku": "A214-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7753-300x400.jpg"
+  },
+  {
+    "name": "Grand Abolisher CMM Full Art Foil",
+    "tcgplayerId": "503578",
+    "productId": "16441",
+    "productSku": "C144-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7789-2-300x400.jpg"
+  },
+  {
+    "name": "Balefire Dragon CMM Full Art Foil",
+    "tcgplayerId": "504180",
+    "productId": "16440",
+    "productSku": "C219-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7787-300x400.jpg"
+  },
+  {
+    "name": "Kindred Dominance CMM Full Art Foil",
+    "tcgplayerId": "503464",
+    "productId": "16438",
+    "productSku": "S163-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7781-300x400.jpg"
+  },
+  {
+    "name": "Aether Vial MPS Foil",
+    "tcgplayerId": "122843",
+    "productId": "16437",
+    "productSku": "A119-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7775-300x400.jpg"
+  },
+  {
+    "name": "Vedalken Shackles MPS Foil",
+    "tcgplayerId": "126299",
+    "productId": "16436",
+    "productSku": "A216-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7773-300x400.jpg"
+  },
+  {
+    "name": "Sphere of Resistance MPS Foil",
+    "tcgplayerId": "126293",
+    "productId": "16435",
+    "productSku": "A155-MPS-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7771-300x400.jpg"
+  },
+  {
+    "name": "Oko, Thief of Crowns ELD Extended Art",
+    "tcgplayerId": "198357",
+    "productId": "16448",
+    "productSku": "P125-ELD-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7805-300x400.jpg"
+  },
+  {
+    "name": "Ulamog, the Infinite Gyre 2X2 Full Art",
+    "tcgplayerId": "276355",
+    "productId": "16447",
+    "productSku": "C179-2X2-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7803-300x400.jpg"
+  },
+  {
+    "name": "Reanimate LTC",
+    "tcgplayerId": "499611",
+    "productId": "16446",
+    "productSku": "S107-LTC-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7801-300x400.jpg"
+  },
+  {
+    "name": "Anikthea, Hand of Erebos CMM Extended Art Foil",
+    "tcgplayerId": "496059",
+    "productId": "16445",
+    "productSku": "C331-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7799-300x400.jpg"
+  },
+  {
+    "name": "Yuriko, the Tiger’s Shadow CMM Full Art Foil",
+    "tcgplayerId": "505807",
+    "productId": "16444",
+    "productSku": "C196-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7797-300x400.jpg"
+  },
+  {
+    "name": "Spellseeker CMM Full Art Foil",
+    "tcgplayerId": "503406",
+    "productId": "16443",
+    "productSku": "C178-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7795-300x400.jpg"
+  },
+  {
+    "name": "Champion’s Helm CMM Full Art Foil",
+    "tcgplayerId": "503548",
+    "productId": "16442",
+    "productSku": "A204-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7793-300x400.jpg"
+  },
+  {
+    "name": "Insurrection CMM Full Art",
+    "tcgplayerId": "503440",
+    "productId": "16449",
+    "productSku": "S145-CMM-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7807-300x400.jpg"
+  },
+  {
+    "name": "The One Ring LTR Full Art Foil",
+    "tcgplayerId": "488270",
+    "productId": "9909",
+    "productSku": "A189-LTR-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/12/IMG_8639-300x400.jpg"
+  },
+  {
+    "name": "Smothering Tithe CMM Full Art Foil",
+    "tcgplayerId": "504303",
+    "productId": "15893",
+    "productSku": "E106-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7531-300x400.jpg"
+  },
+  {
+    "name": "Zhulodok, Void Gorger CMM Extended Art Foil",
+    "tcgplayerId": "496052",
+    "productId": "15848",
+    "productSku": "C325-CMM-HF-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7434-300x400.jpg"
+  },
+  {
+    "name": "Sol Ring CMM Full Art Foil",
+    "tcgplayerId": "503402",
+    "productId": "15845",
+    "productSku": "A135-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7428-300x400.jpg"
+  },
+  {
+    "name": "Palantir of Orthanc LTR Extended Art Foil",
+    "tcgplayerId": "499351",
+    "productId": "15868",
+    "productSku": "A203-LTR-HF-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7476-300x400.jpg"
+  },
+  {
+    "name": "Finale of Devastation CMM Full Art Foil",
+    "tcgplayerId": "504154",
+    "productId": "15864",
+    "productSku": "S115-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7470-300x400.jpg"
+  },
+  {
+    "name": "Fierce Guardianship CMM #694 Full Art Foil",
+    "tcgplayerId": "505763",
+    "productId": "15869",
+    "productSku": "I116-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/07/IMG_0224-300x400.jpg"
+  },
+  {
+    "name": "Ulamog, the Ceaseless Hunger CMM Foil",
+    "tcgplayerId": "504159",
+    "productId": "15887",
+    "productSku": "C226-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7521-300x400.jpg"
+  },
+  {
+    "name": "Deflecting Swat CMM #698 Full Art Foil",
+    "tcgplayerId": "504495",
+    "productId": "15884",
+    "productSku": "I109-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2024/07/IMG_0223-300x400.jpg"
+  },
+  {
+    "name": "Sliver Hive M15",
+    "tcgplayerId": "91041",
+    "productId": "15897",
+    "productSku": "L172-M15-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7543-300x400.jpg"
+  },
+  {
+    "name": "Neheb, the Eternal CMM Full Art Foil",
+    "tcgplayerId": "504271",
+    "productId": "15881",
+    "productSku": "C220-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7506-300x400.jpg"
+  },
+  {
+    "name": "Avacyn, Angel of Hope CMM Foil",
+    "tcgplayerId": "504953",
+    "productId": "15878",
+    "productSku": "C211-CMM-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7500-300x400.jpg"
+  },
+  {
+    "name": "Emrakul, the Aeons Torn ROE Foil",
+    "tcgplayerId": "34698",
+    "productId": "15874",
+    "productSku": "C161-ROE-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7490-300x400.jpg"
+  },
+  {
+    "name": "Jet Medallion CMM Foil",
+    "tcgplayerId": "503362",
+    "productId": "15839",
+    "productSku": "A144-CMM-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7414-300x400.jpg"
+  },
+  {
+    "name": "Emerald Medallion CMM Foil",
+    "tcgplayerId": "503388",
+    "productId": "15838",
+    "productSku": "A146-CMM-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7412-300x400.jpg"
+  },
+  {
+    "name": "Sapphire Medallion CMM Foil",
+    "tcgplayerId": "503372",
+    "productId": "15837",
+    "productSku": "A147-CMM-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7410-300x400.jpg"
+  },
+  {
+    "name": "The Scarab God CMM Foil",
+    "tcgplayerId": "504604",
+    "productId": "15836",
+    "productSku": "C216-CMM-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7408-300x400.jpg"
+  },
+  {
+    "name": "Gisela, Blade of Goldnight CMM Full Art Foil",
+    "tcgplayerId": "504706",
+    "productId": "15847",
+    "productSku": "C323-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7432-300x400.jpg"
+  },
+  {
+    "name": "Imp’s Mischief CMM Foil",
+    "tcgplayerId": "504533",
+    "productId": "15846",
+    "productSku": "I139-CMM-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7430-300x400.jpg"
+  },
+  {
+    "name": "Palantir of Orthanc LTR Extended Art",
+    "tcgplayerId": "499351",
+    "productId": "15844",
+    "productSku": "A203-LTR-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7426-300x400.jpg"
+  },
+  {
+    "name": "Mikaeus, the Unhallowed CMM Full Art Foil",
+    "tcgplayerId": "504186",
+    "productId": "15842",
+    "productSku": "C322-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7420-300x400.jpg"
+  },
+  {
+    "name": "Pearl Medallion CMM Foil",
+    "tcgplayerId": "503359",
+    "productId": "15841",
+    "productSku": "A145-CMM-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7418-300x400.jpg"
+  },
+  {
+    "name": "Ruby Medallion CMM Foil",
+    "tcgplayerId": "503367",
+    "productId": "15840",
+    "productSku": "A143-CMM-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7416-300x400.jpg"
+  },
+  {
+    "name": "Champion’s Helm CMM Full Art",
+    "tcgplayerId": "503548",
+    "productId": "15857",
+    "productSku": "A204-CMM-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7454-300x400.jpg"
+  },
+  {
+    "name": "Tolarian Academy USG",
+    "tcgplayerId": "7073",
+    "productId": "15856",
+    "productSku": "L200-USG-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7452-300x400.jpg"
+  },
+  {
+    "name": "Extraplanar Lens CMM Full Art Foil",
+    "tcgplayerId": "503587",
+    "productId": "15855",
+    "productSku": "A202-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7450-300x400.jpg"
+  },
+  {
+    "name": "Zacama, Primal Calamity CMM Full Art Foil",
+    "tcgplayerId": "505819",
+    "productId": "15854",
+    "productSku": "C259-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7448-300x400.jpg"
+  },
+  {
+    "name": "Ohran Frostfang CMM Full Art Foil",
+    "tcgplayerId": "504187",
+    "productId": "15853",
+    "productSku": "C218-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7446-300x400.jpg"
+  },
+  {
+    "name": "Urza, Lord High Artificer CMM Full Art Foil",
+    "tcgplayerId": "503428",
+    "productId": "15852",
+    "productSku": "C127-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7444-300x400.jpg"
+  },
+  {
+    "name": "Omnath, Locus of Mana CMM Full Art Foil",
+    "tcgplayerId": "503423",
+    "productId": "15851",
+    "productSku": "C326-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7442-300x400.jpg"
+  },
+  {
+    "name": "Sliver Hive M15 Foil",
+    "tcgplayerId": "91041",
+    "productId": "15849",
+    "productSku": "L172-M15-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7436-300x400.jpg"
+  },
+  {
+    "name": "Personal Tutor CMM Full Art",
+    "tcgplayerId": "496063",
+    "productId": "15865",
+    "productSku": "S106-CMM-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7472-300x400.jpg"
+  },
+  {
+    "name": "Regal Behemoth CMM Full Art",
+    "tcgplayerId": "503434",
+    "productId": "15863",
+    "productSku": "C328-CMM-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7468-300x400.jpg"
+  },
+  {
+    "name": "Tarmogoyf MMA",
+    "tcgplayerId": "68103",
+    "productId": "15862",
+    "productSku": "C215-MMA-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7464-300x400.jpg"
+  },
+  {
+    "name": "Puresteel Paladin CMM Full Art",
+    "tcgplayerId": "504147",
+    "productId": "15861",
+    "productSku": "C327-CMM-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7460-300x400.jpg"
+  },
+  {
+    "name": "Azusa, Lost but Seeking CMM Full Art",
+    "tcgplayerId": "503394",
+    "productId": "15858",
+    "productSku": "C250-CMM-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7456-300x400.jpg"
+  },
+  {
+    "name": "Azusa, Lost but Seeking CMM Full Art Foil",
+    "tcgplayerId": "503394",
+    "productId": "15850",
+    "productSku": "C250-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7440-300x400.jpg"
+  },
+  {
+    "name": "Song of the Dryads CMM Foil",
+    "tcgplayerId": "504522",
+    "productId": "15873",
+    "productSku": "E114-CMM-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7488-300x400.jpg"
+  },
+  {
+    "name": "Kozilek, the Great Distortion CMM Full Art Foil",
+    "tcgplayerId": "503392",
+    "productId": "15872",
+    "productSku": "C324-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7486-300x400.jpg"
+  },
+  {
+    "name": "Morophon, the Boundless CMM Full Art Foil",
+    "tcgplayerId": "504169",
+    "productId": "15871",
+    "productSku": "C270-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7484-300x400.jpg"
+  },
+  {
+    "name": "Steelshaper’s Gift CMM Full Art Foil",
+    "tcgplayerId": "504536",
+    "productId": "15870",
+    "productSku": "S160-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7482-300x400.jpg"
+  },
+  {
+    "name": "Razaketh, the Foulblooded CMM Foil",
+    "tcgplayerId": "504507",
+    "productId": "15866",
+    "productSku": "C329-CMM-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7474-300x400.jpg"
+  },
+  {
+    "name": "Grave Pact CMM Full Art Foil",
+    "tcgplayerId": "504531",
+    "productId": "15843",
+    "productSku": "E120-CMM-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2023/09/IMG_7422-300x400.jpg"
   }
 ]
